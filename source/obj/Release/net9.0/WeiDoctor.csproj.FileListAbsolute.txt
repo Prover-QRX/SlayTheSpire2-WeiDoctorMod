@@ -1,0 +1,12 @@
+D:\大黄算法？？？\WeiDoctor_v1.0_beta\source\bin\Release\net9.0\WeiDoctor.deps.json
+D:\大黄算法？？？\WeiDoctor_v1.0_beta\source\bin\Release\net9.0\WeiDoctor.dll
+D:\大黄算法？？？\WeiDoctor_v1.0_beta\source\bin\Release\net9.0\WeiDoctor.pdb
+D:\大黄算法？？？\WeiDoctor_v1.0_beta\source\obj\Release\net9.0\WeiDoctor.csproj.AssemblyReference.cache
+D:\大黄算法？？？\WeiDoctor_v1.0_beta\source\obj\Release\net9.0\WeiDoctor.GeneratedMSBuildEditorConfig.editorconfig
+D:\大黄算法？？？\WeiDoctor_v1.0_beta\source\obj\Release\net9.0\WeiDoctor.AssemblyInfoInputs.cache
+D:\大黄算法？？？\WeiDoctor_v1.0_beta\source\obj\Release\net9.0\WeiDoctor.AssemblyInfo.cs
+D:\大黄算法？？？\WeiDoctor_v1.0_beta\source\obj\Release\net9.0\WeiDoctor.csproj.CoreCompileInputs.cache
+D:\大黄算法？？？\WeiDoctor_v1.0_beta\source\obj\Release\net9.0\WeiDoctor.dll
+D:\大黄算法？？？\WeiDoctor_v1.0_beta\source\obj\Release\net9.0\refint\WeiDoctor.dll
+D:\大黄算法？？？\WeiDoctor_v1.0_beta\source\obj\Release\net9.0\WeiDoctor.pdb
+D:\大黄算法？？？\WeiDoctor_v1.0_beta\source\obj\Release\net9.0\ref\WeiDoctor.dll

@@ -1,0 +1,4 @@
+{
+  "WEI_DOCTOR_KEYWORD_DEPLOY.title": "部署",
+  "WEI_DOCTOR_KEYWORD_DEPLOY.description": "干员打出并结算战斗效果后进入部署区。回合结束时触发部署效果；持续时间结束后返回抽牌堆。"
+}

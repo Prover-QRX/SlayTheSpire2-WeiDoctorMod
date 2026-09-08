@@ -1,0 +1,10 @@
+{
+  "randomMode": false,
+  "initialDraftOfferCount": 10,
+  "initialDraftPickCount": 2,
+  "deploySlots": 3,
+  "promotionCopiesRequired": 3,
+  "dispatchCenterMaxLevel": 6,
+  "enableRitsuLibSettings": true,
+  "betaApiCompatibilityMode": "0.111.0+"
+}

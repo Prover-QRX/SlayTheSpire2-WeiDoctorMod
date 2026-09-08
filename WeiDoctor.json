@@ -1,0 +1,18 @@
+{
+  "id": "WeiDoctor",
+  "name": "Wei Doctor Protocol",
+  "pck_name": "WeiDoctor",
+  "author": "15264 / Codex",
+  "description": "Slay the Spire 2 beta mod prototype: Doctor character with Wei deployment, dispatch center, promotion, and bond-layer mechanics.",
+  "version": "1.0.0",
+  "min_game_version": "0.111.0",
+  "has_pck": false,
+  "has_dll": true,
+  "affects_gameplay": true,
+  "dependencies": [
+    {
+      "id": "STS2-RitsuLib",
+      "minVersion": "0.5.19"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "WEI_DOCTOR_RELIC_DISPATCH_CENTER_RELIC.title": "Dispatch Center",
+  "WEI_DOCTOR_RELIC_DISPATCH_CENTER_RELIC.description": "Has 3 deployment slots. Operator cards resolve their combat effect, then enter deployment. If deployment is full, the earliest deployed operator retreats to the discard pile. When its duration ends, it returns to the draw pile.",
+  "WEI_DOCTOR_RELIC_DISPATCH_CENTER_RELIC.flavor": "Every operation starts with a clear assignment."
+}

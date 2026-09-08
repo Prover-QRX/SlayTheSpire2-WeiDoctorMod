@@ -1,0 +1,14 @@
+{
+  "WEI_DOCTOR_CHARACTER_DOCTOR_CHARACTER.title": "博士",
+  "WEI_DOCTOR_CHARACTER_DOCTOR_CHARACTER.titleObject": "博士",
+  "WEI_DOCTOR_CHARACTER_DOCTOR_CHARACTER.description": "以调度中心统筹干员，通过部署、盟约与晋升建立战线。",
+  "WEI_DOCTOR_CHARACTER_DOCTOR_CHARACTER.unlockText": "已解锁。",
+  "WEI_DOCTOR_CHARACTER_DOCTOR_CHARACTER.bestiaryQuote": "博士正在记录敌方行动。",
+  "WEI_DOCTOR_CHARACTER_DOCTOR_CHARACTER.pronounObject": "博士",
+  "WEI_DOCTOR_CHARACTER_DOCTOR_CHARACTER.possessiveAdjective": "博士的",
+  "WEI_DOCTOR_CHARACTER_DOCTOR_CHARACTER.pronounPossessive": "博士的",
+  "WEI_DOCTOR_CHARACTER_DOCTOR_CHARACTER.pronounSubject": "博士",
+  "WEI_DOCTOR_CHARACTER_DOCTOR_CHARACTER.cardsModifierTitle": "博士牌组",
+  "WEI_DOCTOR_CHARACTER_DOCTOR_CHARACTER.cardsModifierDescription": "博士使用干员、战术指令和盟约遗物战斗。",
+  "WEI_DOCTOR_CHARACTER_DOCTOR_CHARACTER.eventDeathPrevention": "博士重新规划了撤离路线。"
+}

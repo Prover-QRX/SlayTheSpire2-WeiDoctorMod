@@ -1,0 +1,2036 @@
+[
+  {
+    "id": "wei_doctor:隐现",
+    "name": "隐现",
+    "tier": "Ⅰ阶",
+    "type": "攻击",
+    "cost": 1,
+    "bonds": [
+      "拉特兰",
+      "迅捷"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时对生命最低的敌人造成12点攻击伤害，施加1层锁定；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，对生命最低的敌人造成8点攻击伤害，施加1层锁定。",
+    "traitEffect": "【拉特兰】每叠加5层，本干员命中时施加1层缓慢 / （※仅在每次部署时判定盟约层数）",
+    "promotedTraitEffect": "【拉特兰】每叠加5层，本干员命中时施加2层缓慢 / （※仅在每次部署时判定盟约层数）",
+    "art": "assets/operators/01_I阶/001_Ⅰ阶_隐现.png"
+  },
+  {
+    "id": "wei_doctor:角峰",
+    "name": "角峰",
+    "tier": "Ⅰ阶",
+    "type": "技能",
+    "cost": 1,
+    "bonds": [
+      "谢拉格",
+      "坚守"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时获得10点格挡，并对攻击意图最高的敌人施加1层寒冷；若目标寒冷达到3层，移除3层寒冷并施加1层冻结；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，获得6点格挡，并对攻击意图最高的敌人施加1层寒冷；若目标寒冷达到3层，移除3层寒冷并施加1层冻结。",
+    "traitEffect": "天资 2",
+    "promotedTraitEffect": "天资 4",
+    "art": "assets/operators/01_I阶/002_Ⅰ阶_角峰.png"
+  },
+  {
+    "id": "wei_doctor:惊蛰",
+    "name": "惊蛰",
+    "tier": "Ⅰ阶",
+    "type": "攻击",
+    "cost": 1,
+    "bonds": [
+      "炎"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时对所有敌人直接造成8点伤害，施加2层灼燃；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，对所有敌人直接造成5点伤害，施加1层灼燃。",
+    "traitEffect": "天资 X（X=当前调度中心等级）",
+    "promotedTraitEffect": "天资 2X（X=当前调度中心等级）",
+    "art": "assets/operators/01_I阶/003_Ⅰ阶_惊蛰.png"
+  },
+  {
+    "id": "wei_doctor:深巡",
+    "name": "深巡",
+    "tier": "Ⅰ阶",
+    "type": "攻击",
+    "cost": 1,
+    "bonds": [
+      "阿戈尔"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时对目标敌人造成12点攻击伤害，施加1层蚀甲；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，对目标敌人造成8点攻击伤害，施加1层蚀甲。",
+    "traitEffect": "攻击海怪敌人时攻击力提升至150%",
+    "promotedTraitEffect": "攻击海怪敌人时攻击力提升至200%",
+    "art": "assets/operators/01_I阶/004_Ⅰ阶_深巡.png"
+  },
+  {
+    "id": "wei_doctor:刺玫",
+    "name": "刺玫",
+    "tier": "Ⅰ阶",
+    "type": "能力",
+    "cost": 1,
+    "bonds": [
+      "维多利亚",
+      "助力"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 0,
+    "battleEffect": "打出时获得本场战斗持续状态【战术状态：刺玫】。本场战斗每回合结束，若本回合部署过干员，获得6点格挡；若该干员任一所属盟约已激活，额外抽1张牌。",
+    "deployEffect": "能力牌不进入部署区，不产生部署区回合结束效果。",
+    "traitEffect": "整备 1（维多利亚）",
+    "promotedTraitEffect": "整备 2（维多利亚）",
+    "art": "assets/operators/01_I阶/005_Ⅰ阶_刺玫.png"
+  },
+  {
+    "id": "wei_doctor:普罗旺斯",
+    "name": "普罗旺斯",
+    "tier": "Ⅰ阶",
+    "type": "攻击",
+    "cost": 1,
+    "bonds": [
+      "叙拉古"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时对生命最低的敌人造成12点攻击伤害，施加1层虚弱；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，对生命最低的敌人造成8点攻击伤害，施加1层虚弱。",
+    "traitEffect": "筹措 1（免费刷新）",
+    "promotedTraitEffect": "筹措 2（免费刷新）",
+    "art": "assets/operators/01_I阶/006_Ⅰ阶_普罗旺斯.png"
+  },
+  {
+    "id": "wei_doctor:德克萨斯",
+    "name": "德克萨斯",
+    "tier": "Ⅰ阶",
+    "type": "能力",
+    "cost": 1,
+    "bonds": [
+      "独行",
+      "叙拉古"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 0,
+    "battleEffect": "打出时获得本场战斗持续状态【战术状态：德克萨斯】。本场战斗每回合结束，若本回合部署过干员，获得6点格挡；若该干员任一所属盟约已激活，额外抽1张牌。",
+    "deployEffect": "能力牌不进入部署区，不产生部署区回合结束效果。",
+    "traitEffect": "筹措 1（售出免费刷新）",
+    "promotedTraitEffect": "筹措 2（售出免费刷新）",
+    "art": "assets/operators/01_I阶/007_Ⅰ阶_德克萨斯.png"
+  },
+  {
+    "id": "wei_doctor:跃跃",
+    "name": "跃跃",
+    "tier": "Ⅰ阶",
+    "type": "攻击",
+    "cost": 1,
+    "bonds": [
+      "精准"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时对生命最低的敌人造成12点攻击伤害，施加1层锁定；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，对生命最低的敌人造成8点攻击伤害，施加1层锁定。",
+    "traitEffect": "攻击无人机敌人时攻击力提升至150%",
+    "promotedTraitEffect": "攻击无人机敌人时攻击力提升至200%",
+    "art": "assets/operators/01_I阶/008_Ⅰ阶_跃跃.png"
+  },
+  {
+    "id": "wei_doctor:古米",
+    "name": "古米",
+    "tier": "Ⅰ阶",
+    "type": "技能",
+    "cost": 1,
+    "bonds": [
+      "坚守"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时获得10点格挡，并对攻击意图最高的敌人施加1层虚弱；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，获得6点格挡，并对攻击意图最高的敌人施加1层虚弱。",
+    "traitEffect": "技力自然恢复速度+0.15/秒",
+    "promotedTraitEffect": "技力自然恢复速度+0.3/秒",
+    "art": "assets/operators/01_I阶/009_Ⅰ阶_古米.png"
+  },
+  {
+    "id": "wei_doctor:艾丝黛尔",
+    "name": "艾丝黛尔",
+    "tier": "Ⅰ阶",
+    "type": "攻击",
+    "cost": 1,
+    "bonds": [
+      "萨尔贡"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时对所有敌人造成8点攻击伤害，施加1层易伤；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，对所有敌人造成5点攻击伤害，施加1层易伤。",
+    "traitEffect": "天资 2",
+    "promotedTraitEffect": "天资 4",
+    "art": "assets/operators/01_I阶/010_Ⅰ阶_艾丝黛尔.png"
+  },
+  {
+    "id": "wei_doctor:波登可",
+    "name": "波登可",
+    "tier": "Ⅰ阶",
+    "type": "能力",
+    "cost": 1,
+    "bonds": [
+      "助力"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 0,
+    "battleEffect": "打出时获得本场战斗持续状态【战术状态：波登可】。本场战斗每回合结束，若本回合部署过干员，获得6点格挡；若该干员任一所属盟约已激活，额外抽1张牌。",
+    "deployEffect": "能力牌不进入部署区，不产生部署区回合结束效果。",
+    "traitEffect": "整备 1（最高盟约），此干员在整备区时也有效",
+    "promotedTraitEffect": "整备 2（最高盟约），此干员在整备区时也有效",
+    "art": "assets/operators/01_I阶/011_Ⅰ阶_波登可.png"
+  },
+  {
+    "id": "wei_doctor:格雷伊",
+    "name": "格雷伊",
+    "tier": "Ⅰ阶",
+    "type": "技能",
+    "cost": 1,
+    "bonds": [
+      "灵巧"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时获得9点格挡，抽1张牌，并对攻击意图最高的敌人施加1层奥术脆弱；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，获得6点格挡，并对攻击意图最高的敌人施加1层奥术脆弱。",
+    "traitEffect": "筹措 1（售出后）",
+    "promotedTraitEffect": "筹措 2（售出后）",
+    "art": "assets/operators/01_I阶/012_Ⅰ阶_格雷伊.png"
+  },
+  {
+    "id": "wei_doctor:深靛",
+    "name": "深靛",
+    "tier": "Ⅰ阶",
+    "type": "攻击",
+    "cost": 1,
+    "bonds": [
+      "奥术",
+      "精准"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时对随机敌人直接造成12点伤害，施加1层锁定；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，对随机敌人直接造成8点伤害，施加1层锁定。",
+    "traitEffect": "天资 2",
+    "promotedTraitEffect": "天资 4",
+    "art": "assets/operators/01_I阶/014_Ⅰ阶_深靛.png"
+  },
+  {
+    "id": "wei_doctor:宴",
+    "name": "宴",
+    "tier": "Ⅰ阶",
+    "type": "技能",
+    "cost": 1,
+    "bonds": [
+      "突袭"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时获得9点格挡，抽1张牌，并对攻击意图最高的敌人施加1层破绽；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，获得6点格挡，并对攻击意图最高的敌人施加1层破绽。",
+    "traitEffect": "<战斗中>若目标拥有负面状态，本干员获得数值提升：造成伤害+25%",
+    "promotedTraitEffect": "沿用普通特质，提高数值。",
+    "art": "assets/operators/01_I阶/015_Ⅰ阶_宴.png"
+  },
+  {
+    "id": "wei_doctor:野鬃",
+    "name": "野鬃",
+    "tier": "Ⅰ阶",
+    "type": "能力",
+    "cost": 1,
+    "bonds": [
+      "卡西米尔",
+      "迅捷"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 0,
+    "battleEffect": "打出时获得本场战斗持续状态【战术状态：野鬃】。本场战斗每回合结束，若本回合部署过干员，获得6点格挡；若该干员任一所属盟约已激活，额外抽1张牌。",
+    "deployEffect": "能力牌不进入部署区，不产生部署区回合结束效果。",
+    "traitEffect": "天资 2",
+    "promotedTraitEffect": "天资 4",
+    "art": "assets/operators/01_I阶/016_Ⅰ阶_野鬃.png"
+  },
+  {
+    "id": "wei_doctor:雷蛇",
+    "name": "雷蛇",
+    "tier": "Ⅰ阶",
+    "type": "技能",
+    "cost": 1,
+    "bonds": [
+      "不屈"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时获得10点格挡，并对攻击意图最高的敌人施加1层虚弱；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，获得6点格挡，并对攻击意图最高的敌人施加1层虚弱。",
+    "traitEffect": "整备 1（不屈）",
+    "promotedTraitEffect": "整备 2（不屈）",
+    "art": "assets/operators/01_I阶/017_Ⅰ阶_雷蛇.png"
+  },
+  {
+    "id": "wei_doctor:盟约_辅助干员",
+    "name": "盟约·辅助干员",
+    "tier": "Ⅰ阶",
+    "type": "能力",
+    "cost": 1,
+    "bonds": [
+      "调和",
+      "协防干员"
+    ],
+    "rewardPool": "特殊来源池",
+    "deployTurns": 0,
+    "battleEffect": "打出时获得本场战斗持续状态【战术状态：盟约·辅助干员】。本场战斗每回合结束，若本回合部署过干员，获得6点格挡；若该干员任一所属盟约已激活，额外抽1张牌。",
+    "deployEffect": "能力牌不进入部署区，不产生部署区回合结束效果。",
+    "traitEffect": "策略衍生辅助干员；不属于普通干员池。",
+    "promotedTraitEffect": "晋升后，协防减伤从10%提高至15%，且调和使一个核心盟约人数视为+2。",
+    "art": "assets/operators/特殊池_不进普通奖励/013_Ⅰ阶_盟约·辅助干员.png"
+  },
+  {
+    "id": "wei_doctor:送葬人",
+    "name": "送葬人",
+    "tier": "Ⅱ阶",
+    "type": "攻击",
+    "cost": 1,
+    "bonds": [
+      "拉特兰",
+      "精准"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时对生命最低的敌人造成16点攻击伤害，施加1层锁定；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，对生命最低的敌人造成10点攻击伤害，施加1层锁定。",
+    "traitEffect": "<战斗中>首次击倒敌人时，使已激活的【精准】【拉特兰】层数+3",
+    "promotedTraitEffect": "<战斗中>首次击倒敌人时，使已激活的【精准】【拉特兰】层数+6",
+    "art": "assets/operators/02_II阶/018_Ⅱ阶_送葬人.png"
+  },
+  {
+    "id": "wei_doctor:赫默",
+    "name": "赫默",
+    "tier": "Ⅱ阶",
+    "type": "能力",
+    "cost": 2,
+    "bonds": [
+      "远见"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 0,
+    "battleEffect": "打出时获得本场战斗持续状态【战术状态：赫默】。本场战斗每回合结束，若本回合部署过干员，获得8点格挡；若该干员任一所属盟约已激活，额外抽1张牌。",
+    "deployEffect": "能力牌不进入部署区，不产生部署区回合结束效果。",
+    "traitEffect": "整备 2",
+    "promotedTraitEffect": "整备 4",
+    "art": "assets/operators/02_II阶/019_Ⅱ阶_赫默.png"
+  },
+  {
+    "id": "wei_doctor:小满",
+    "name": "小满",
+    "tier": "Ⅱ阶",
+    "type": "能力",
+    "cost": 2,
+    "bonds": [
+      "炎",
+      "灵巧"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 0,
+    "battleEffect": "打出时获得本场战斗持续状态【战术状态：小满】。本场战斗每回合结束，若本回合部署过干员，获得8点格挡；若该干员任一所属盟约已激活，额外抽1张牌。",
+    "deployEffect": "能力牌不进入部署区，不产生部署区回合结束效果。",
+    "traitEffect": "整备 1（每获得1名干员，炎）",
+    "promotedTraitEffect": "整备 2（每获得1名干员，炎）",
+    "art": "assets/operators/02_II阶/020_Ⅱ阶_小满.png"
+  },
+  {
+    "id": "wei_doctor:哈洛德",
+    "name": "哈洛德",
+    "tier": "Ⅱ阶",
+    "type": "技能",
+    "cost": 2,
+    "bonds": [
+      "谢拉格",
+      "维多利亚"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时获得13点格挡，回复1点生命，移除博士1层负面状态；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，获得8点格挡，回复1点生命。",
+    "traitEffect": "攻击力和生命值+20%；核心盟约每叠加3层，本干员攻击力和生命值+1% / （※仅在每次部署时判定盟约层数）",
+    "promotedTraitEffect": "攻击力和生命值+40%；核心盟约每叠加3层，本干员攻击力和生命值+2% / （※仅在每次部署时判定盟约层数）",
+    "art": "assets/operators/02_II阶/021_Ⅱ阶_哈洛德.png"
+  },
+  {
+    "id": "wei_doctor:莎草",
+    "name": "莎草",
+    "tier": "Ⅱ阶",
+    "type": "技能",
+    "cost": 2,
+    "bonds": [
+      "萨尔贡"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时获得13点格挡，回复1点生命，移除博士1层负面状态；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，获得8点格挡，回复1点生命。",
+    "traitEffect": "<战斗中>首次开启技能时，使已激活的【萨尔贡】层数+5",
+    "promotedTraitEffect": "<战斗中>首次开启技能时，使已激活的【萨尔贡】层数+10",
+    "art": "assets/operators/02_II阶/022_Ⅱ阶_莎草.png"
+  },
+  {
+    "id": "wei_doctor:幽灵鲨",
+    "name": "幽灵鲨",
+    "tier": "Ⅱ阶",
+    "type": "攻击",
+    "cost": 1,
+    "bonds": [
+      "阿戈尔"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时对目标敌人造成16点攻击伤害，施加1层蚀甲；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，对目标敌人造成10点攻击伤害，施加1层蚀甲。",
+    "traitEffect": "<战斗中>自身被击倒时，使已激活的【阿戈尔】层数+3",
+    "promotedTraitEffect": "<战斗中>自身被击倒时，使已激活的【阿戈尔】层数+6",
+    "art": "assets/operators/02_II阶/023_Ⅱ阶_幽灵鲨.png"
+  },
+  {
+    "id": "wei_doctor:泡泡",
+    "name": "泡泡",
+    "tier": "Ⅱ阶",
+    "type": "技能",
+    "cost": 2,
+    "bonds": [
+      "萨尔贡",
+      "坚守"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时获得13点格挡，并对攻击意图最高的敌人施加1层虚弱；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，获得8点格挡，并对攻击意图最高的敌人施加1层虚弱。",
+    "traitEffect": "【萨尔贡】【坚守】每叠加3层，本干员防御力+1% / （※仅在每次部署时判定盟约层数）",
+    "promotedTraitEffect": "【萨尔贡】【坚守】每叠加3层，本干员防御力+2% / （※仅在每次部署时判定盟约层数）",
+    "art": "assets/operators/02_II阶/024_Ⅱ阶_泡泡.png"
+  },
+  {
+    "id": "wei_doctor:休谟斯",
+    "name": "休谟斯",
+    "tier": "Ⅱ阶",
+    "type": "攻击",
+    "cost": 1,
+    "bonds": [
+      "突袭"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时对目标敌人造成16点攻击伤害，施加1层破绽；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，对目标敌人造成10点攻击伤害，施加1层破绽。",
+    "traitEffect": "<战斗中>每击倒2名敌人时，使已激活的【突袭】层数+1",
+    "promotedTraitEffect": "<战斗中>每击倒2名敌人，使已激活的【突袭】层数+2",
+    "art": "assets/operators/02_II阶/025_Ⅱ阶_休谟斯.png"
+  },
+  {
+    "id": "wei_doctor:洛洛",
+    "name": "洛洛",
+    "tier": "Ⅱ阶",
+    "type": "攻击",
+    "cost": 1,
+    "bonds": [
+      "维多利亚",
+      "奥术"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时对随机敌人直接造成16点伤害，施加1层奥术脆弱；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，对随机敌人直接造成10点伤害，施加1层奥术脆弱。",
+    "traitEffect": "筹措 1（洛洛的定制品）",
+    "promotedTraitEffect": "筹措 2（洛洛的定制品）",
+    "art": "assets/operators/02_II阶/026_Ⅱ阶_洛洛.png"
+  },
+  {
+    "id": "wei_doctor:风丸",
+    "name": "风丸",
+    "tier": "Ⅱ阶",
+    "type": "攻击",
+    "cost": 1,
+    "bonds": [
+      "奇迹"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时对目标敌人造成16点攻击伤害，施加1层易伤；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，对目标敌人造成10点攻击伤害，施加1层易伤。",
+    "traitEffect": "只需2个相同的本干员即可合成精锐",
+    "promotedTraitEffect": "沿用普通特质，提高数值。",
+    "art": "assets/operators/02_II阶/027_Ⅱ阶_风丸.png"
+  },
+  {
+    "id": "wei_doctor:砾",
+    "name": "砾",
+    "tier": "Ⅱ阶",
+    "type": "攻击",
+    "cost": 1,
+    "bonds": [
+      "卡西米尔",
+      "不屈"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时对目标敌人造成16点攻击伤害，施加1层易伤；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，对目标敌人造成10点攻击伤害，施加1层易伤。",
+    "traitEffect": "号召 1（卡西米尔） / <被击倒时>使已激活的【不屈】层数+2",
+    "promotedTraitEffect": "号召 2（卡西米尔） / <被击倒时>使已激活的【不屈】层数+4",
+    "art": "assets/operators/02_II阶/028_Ⅱ阶_砾.png"
+  },
+  {
+    "id": "wei_doctor:蒂比",
+    "name": "蒂比",
+    "tier": "Ⅱ阶",
+    "type": "能力",
+    "cost": 2,
+    "bonds": [
+      "迅捷",
+      "灵巧"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 0,
+    "battleEffect": "打出时获得本场战斗持续状态【战术状态：蒂比】。本场战斗每回合结束，若本回合部署过干员，获得8点格挡；若该干员任一所属盟约已激活，额外抽1张牌。",
+    "deployEffect": "能力牌不进入部署区，不产生部署区回合结束效果。",
+    "traitEffect": "整备 2",
+    "promotedTraitEffect": "整备 4",
+    "art": "assets/operators/02_II阶/029_Ⅱ阶_蒂比.png"
+  },
+  {
+    "id": "wei_doctor:调香师",
+    "name": "调香师",
+    "tier": "Ⅱ阶",
+    "type": "能力",
+    "cost": 2,
+    "bonds": [
+      "助力",
+      "协防干员"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 0,
+    "battleEffect": "打出时获得本场战斗持续状态【战术状态：调香师】。本场战斗每回合结束，若本回合部署过干员，获得8点格挡；若该干员任一所属盟约已激活，额外抽1张牌。",
+    "deployEffect": "能力牌不进入部署区，不产生部署区回合结束效果。",
+    "traitEffect": "整备 2（最高盟约），此干员在整备区时也有效",
+    "promotedTraitEffect": "整备 4（最高盟约），此干员在整备区时也有效",
+    "art": "assets/operators/02_II阶/030_Ⅱ阶_调香师.png"
+  },
+  {
+    "id": "wei_doctor:拉普兰德",
+    "name": "拉普兰德",
+    "tier": "Ⅱ阶",
+    "type": "攻击",
+    "cost": 1,
+    "bonds": [
+      "叙拉古"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时对目标敌人造成16点攻击伤害，施加1层虚弱；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，对目标敌人造成10点攻击伤害，施加1层虚弱。",
+    "traitEffect": "<刷新时>若为本回合首次主动刷新，使已激活的【叙拉古】层数+4，此干员在整备区时也有效",
+    "promotedTraitEffect": "<刷新时>若为本回合首次主动刷新，使已激活的【叙拉古】层数+8，此干员在整备区时也有效",
+    "art": "assets/operators/02_II阶/031_Ⅱ阶_拉普兰德.png"
+  },
+  {
+    "id": "wei_doctor:折桠",
+    "name": "折桠",
+    "tier": "Ⅱ阶",
+    "type": "技能",
+    "cost": 2,
+    "bonds": [
+      "坚守",
+      "独行"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时获得13点格挡，并对攻击意图最高的敌人施加1层虚弱；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，获得8点格挡，并对攻击意图最高的敌人施加1层虚弱。",
+    "traitEffect": "整备 4（坚守）",
+    "promotedTraitEffect": "整备 8（坚守）",
+    "art": "assets/operators/02_II阶/032_Ⅱ阶_折桠.png"
+  },
+  {
+    "id": "wei_doctor:灰毫",
+    "name": "灰毫",
+    "tier": "Ⅱ阶",
+    "type": "技能",
+    "cost": 2,
+    "bonds": [
+      "卡西米尔",
+      "坚守"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时获得13点格挡，并对攻击意图最高的敌人施加1层易伤；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，获得8点格挡，并对攻击意图最高的敌人施加1层易伤。",
+    "traitEffect": "授印 3",
+    "promotedTraitEffect": "授印 6",
+    "art": "assets/operators/02_II阶/033_Ⅱ阶_灰毫.png"
+  },
+  {
+    "id": "wei_doctor:锡人",
+    "name": "锡人",
+    "tier": "Ⅱ阶",
+    "type": "技能",
+    "cost": 2,
+    "bonds": [
+      "投资人",
+      "迅捷"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时获得12点格挡，抽1张牌，并对攻击意图最高的敌人施加1层缓慢；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，获得8点格挡，并对攻击意图最高的敌人施加1层缓慢。",
+    "traitEffect": "攻击力和生命值+20%；【投资人】【迅捷】每叠加3层，本干员攻击力和生命值+1%",
+    "promotedTraitEffect": "攻击力和生命值+40%；【投资人】【迅捷】每叠加3层，本干员攻击力和生命值+2%",
+    "art": "assets/operators/02_II阶/034_Ⅱ阶_锡人.png"
+  },
+  {
+    "id": "wei_doctor:能天使",
+    "name": "能天使",
+    "tier": "Ⅲ阶",
+    "type": "攻击",
+    "cost": 1,
+    "bonds": [
+      "拉特兰",
+      "奇迹"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时对生命最低的敌人造成20点攻击伤害，施加1层锁定；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，对生命最低的敌人造成12点攻击伤害，施加1层锁定。",
+    "traitEffect": "筹措 1（下个休整期资金）",
+    "promotedTraitEffect": "筹措 2（下个休整期资金）",
+    "art": "assets/operators/03_III阶/035_Ⅲ阶_能天使.png"
+  },
+  {
+    "id": "wei_doctor:断崖",
+    "name": "断崖",
+    "tier": "Ⅲ阶",
+    "type": "攻击",
+    "cost": 1,
+    "bonds": [
+      "灵巧"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时对所有敌人造成14点攻击伤害，施加1层易伤；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，对所有敌人造成9点攻击伤害，施加1层易伤。",
+    "traitEffect": "整备 3（自身与后一格）",
+    "promotedTraitEffect": "整备 6（自身与后一格）",
+    "art": "assets/operators/03_III阶/036_Ⅲ阶_断崖.png"
+  },
+  {
+    "id": "wei_doctor:诗怀雅",
+    "name": "诗怀雅",
+    "tier": "Ⅲ阶",
+    "type": "攻击",
+    "cost": 1,
+    "bonds": [
+      "炎",
+      "远见"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时对目标敌人造成20点攻击伤害，施加5层灼燃；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，对目标敌人造成12点攻击伤害，施加1层灼燃。",
+    "traitEffect": "筹措 1（盟约之币）",
+    "promotedTraitEffect": "筹措 2（盟约之币）",
+    "art": "assets/operators/03_III阶/037_Ⅲ阶_诗怀雅.png"
+  },
+  {
+    "id": "wei_doctor:琳琅诗怀雅",
+    "name": "琳琅诗怀雅",
+    "tier": "Ⅲ阶",
+    "type": "能力",
+    "cost": 2,
+    "bonds": [
+      "炎",
+      "投资人"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 0,
+    "battleEffect": "打出时获得本场战斗持续状态【战术状态：琳琅诗怀雅】。本场战斗每回合结束，若本回合部署过干员，获得10点格挡；若该干员任一所属盟约已激活，额外抽1张牌。",
+    "deployEffect": "能力牌不进入部署区，不产生部署区回合结束效果。",
+    "traitEffect": "筹措 1（下个休整期资金；炎/投资人激活时整备区有效）",
+    "promotedTraitEffect": "筹措 2（下个休整期资金；炎/投资人激活时整备区有效）",
+    "art": "assets/operators/03_III阶/038_Ⅲ阶_琳琅诗怀雅.png"
+  },
+  {
+    "id": "wei_doctor:斯卡蒂",
+    "name": "斯卡蒂",
+    "tier": "Ⅲ阶",
+    "type": "技能",
+    "cost": 2,
+    "bonds": [
+      "阿戈尔",
+      "坚守",
+      "突袭"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时获得15点格挡，抽1张牌，并对攻击意图最高的敌人施加1层蚀甲；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，获得9点格挡，并对攻击意图最高的敌人施加1层蚀甲。",
+    "traitEffect": "<战斗中>每击倒2名单位时，使已激活的【阿戈尔】【坚守】【突袭】层数+1",
+    "promotedTraitEffect": "<战斗中>每击倒2名敌人时，使已激活的【阿戈尔】【坚守】【突袭】层数+2",
+    "art": "assets/operators/03_III阶/039_Ⅲ阶_斯卡蒂.png"
+  },
+  {
+    "id": "wei_doctor:菲莱",
+    "name": "菲莱",
+    "tier": "Ⅲ阶",
+    "type": "攻击",
+    "cost": 1,
+    "bonds": [
+      "萨尔贡"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时对随机敌人直接造成20点伤害，施加1层奥术脆弱；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，对随机敌人直接造成12点伤害，施加1层奥术脆弱。",
+    "traitEffect": "<战斗中>开启技能时，使已激活的【萨尔贡】层数+6",
+    "promotedTraitEffect": "<战斗中>开启技能时，使已激活的【萨尔贡】层数+12",
+    "art": "assets/operators/03_III阶/040_Ⅲ阶_菲莱.png"
+  },
+  {
+    "id": "wei_doctor:薄绿",
+    "name": "薄绿",
+    "tier": "Ⅲ阶",
+    "type": "攻击",
+    "cost": 1,
+    "bonds": [
+      "维多利亚"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时对随机敌人造成20点攻击伤害，施加1层奥术脆弱；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，对随机敌人造成12点攻击伤害，施加1层奥术脆弱。",
+    "traitEffect": "整备 2（每有1名不同阶维多利亚干员，维多利亚）",
+    "promotedTraitEffect": "整备 4（每有1名不同阶维多利亚干员，维多利亚）",
+    "art": "assets/operators/03_III阶/041_Ⅲ阶_薄绿.png"
+  },
+  {
+    "id": "wei_doctor:海霓",
+    "name": "海霓",
+    "tier": "Ⅲ阶",
+    "type": "攻击",
+    "cost": 1,
+    "bonds": [
+      "阿戈尔",
+      "奥术"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时对随机敌人造成20点攻击伤害，施加1层蚀甲；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，对随机敌人造成12点攻击伤害，施加1层蚀甲。",
+    "traitEffect": "<战斗中>首次击倒敌人或我方干员时，使已激活的【阿戈尔】【奥术】层数+3",
+    "promotedTraitEffect": "<战斗中>首次击倒敌人或我方干员时，使已激活的【阿戈尔】【奥术】层数+6",
+    "art": "assets/operators/03_III阶/042_Ⅲ阶_海霓.png"
+  },
+  {
+    "id": "wei_doctor:松果",
+    "name": "松果",
+    "tier": "Ⅲ阶",
+    "type": "攻击",
+    "cost": 1,
+    "bonds": [
+      "迅捷",
+      "协防干员"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时对生命最低的敌人造成20点攻击伤害，施加1层缓慢；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，对生命最低的敌人造成12点攻击伤害，施加1层缓慢。",
+    "traitEffect": "筹措 1（售出免费特殊招募：I阶；精锐后改为V阶）",
+    "promotedTraitEffect": "筹措 1（售出免费特殊招募：V阶）",
+    "art": "assets/operators/03_III阶/043_Ⅲ阶_松果.png"
+  },
+  {
+    "id": "wei_doctor:雪猎",
+    "name": "雪猎",
+    "tier": "Ⅲ阶",
+    "type": "能力",
+    "cost": 2,
+    "bonds": [
+      "谢拉格",
+      "精准"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 0,
+    "battleEffect": "打出时获得本场战斗持续状态【战术状态：雪猎】。本场战斗每回合结束，若本回合部署过干员，获得10点格挡；若该干员任一所属盟约已激活，额外抽1张牌。",
+    "deployEffect": "能力牌不进入部署区，不产生部署区回合结束效果。",
+    "traitEffect": "天资 5",
+    "promotedTraitEffect": "天资 10",
+    "art": "assets/operators/03_III阶/044_Ⅲ阶_雪猎.png"
+  },
+  {
+    "id": "wei_doctor:瑕光",
+    "name": "瑕光",
+    "tier": "Ⅲ阶",
+    "type": "技能",
+    "cost": 2,
+    "bonds": [
+      "卡西米尔",
+      "突袭"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时获得16点格挡，并对攻击意图最高的敌人施加1层易伤；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，获得10点格挡，并对攻击意图最高的敌人施加1层易伤。",
+    "traitEffect": "号召 4（每场作战至多12层）",
+    "promotedTraitEffect": "号召 8（每场作战至多24层）",
+    "art": "assets/operators/03_III阶/045_Ⅲ阶_瑕光.png"
+  },
+  {
+    "id": "wei_doctor:至简",
+    "name": "至简",
+    "tier": "Ⅲ阶",
+    "type": "攻击",
+    "cost": 1,
+    "bonds": [
+      "萨尔贡",
+      "灵巧"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时对随机敌人造成20点攻击伤害，施加1层奥术脆弱；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，对随机敌人造成12点攻击伤害，施加1层奥术脆弱。",
+    "traitEffect": "购买价格为1",
+    "promotedTraitEffect": "沿用普通特质，提高数值。",
+    "art": "assets/operators/03_III阶/046_Ⅲ阶_至简.png"
+  },
+  {
+    "id": "wei_doctor:初雪",
+    "name": "初雪",
+    "tier": "Ⅲ阶",
+    "type": "技能",
+    "cost": 2,
+    "bonds": [
+      "谢拉格",
+      "远见"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时获得15点格挡，抽1张牌，并对攻击意图最高的敌人施加1层寒冷；若目标寒冷达到3层，移除3层寒冷并施加1层冻结；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，获得9点格挡，并对攻击意图最高的敌人施加1层寒冷；若目标寒冷达到3层，移除3层寒冷并施加1层冻结。",
+    "traitEffect": "<战斗中>每当范围内1名敌人进入冻结时，有50%概率使已激活的【谢拉格】层数+1",
+    "promotedTraitEffect": "<战斗中>每当范围内1名敌人进入冻结时，有50%概率使已激活的【谢拉格】层数+2",
+    "art": "assets/operators/03_III阶/047_Ⅲ阶_初雪.png"
+  },
+  {
+    "id": "wei_doctor:蛇屠箱",
+    "name": "蛇屠箱",
+    "tier": "Ⅲ阶",
+    "type": "技能",
+    "cost": 2,
+    "bonds": [
+      "坚守",
+      "不屈"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时获得16点格挡，并对攻击意图最高的敌人施加1层虚弱；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，获得10点格挡，并对攻击意图最高的敌人施加1层虚弱。",
+    "traitEffect": "整备 1（同一行每1名干员，坚守）",
+    "promotedTraitEffect": "整备 2（同一行每1名干员，坚守）",
+    "art": "assets/operators/03_III阶/048_Ⅲ阶_蛇屠箱.png"
+  },
+  {
+    "id": "wei_doctor:流星",
+    "name": "流星",
+    "tier": "Ⅲ阶",
+    "type": "技能",
+    "cost": 2,
+    "bonds": [
+      "卡西米尔",
+      "独行"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时获得15点格挡，抽1张牌，并对攻击意图最高的敌人施加1层易伤；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，获得9点格挡，并对攻击意图最高的敌人施加1层易伤。",
+    "traitEffect": "<战斗中>攻击力和生命值+25%；若目标拥有负面状态，造成伤害+25%",
+    "promotedTraitEffect": "<战斗中>攻击力和生命值+50%；若目标拥有负面状态，造成伤害+50%",
+    "art": "assets/operators/03_III阶/049_Ⅲ阶_流星.png"
+  },
+  {
+    "id": "wei_doctor:忍冬",
+    "name": "忍冬",
+    "tier": "Ⅲ阶",
+    "type": "攻击",
+    "cost": 1,
+    "bonds": [
+      "叙拉古",
+      "迅捷"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时对目标敌人造成20点攻击伤害，施加1层虚弱；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，对目标敌人造成12点攻击伤害，施加1层虚弱。",
+    "traitEffect": "天资 6",
+    "promotedTraitEffect": "天资 12",
+    "art": "assets/operators/03_III阶/050_Ⅲ阶_忍冬.png"
+  },
+  {
+    "id": "wei_doctor:伺夜",
+    "name": "伺夜",
+    "tier": "Ⅲ阶",
+    "type": "技能",
+    "cost": 2,
+    "bonds": [
+      "叙拉古",
+      "奇迹"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时获得15点格挡，抽1张牌，并对攻击意图最高的敌人施加1层虚弱；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，获得9点格挡，并对攻击意图最高的敌人施加1层虚弱。",
+    "traitEffect": "<战斗中>若目标拥有负面状态，本干员获得数值提升：造成伤害+25%，前3次击倒敌人时使已激活的【叙拉古】层数+2、【奇迹】层数+1",
+    "promotedTraitEffect": "<战斗中>若目标拥有负面状态，本干员获得数值提升：造成伤害+25%，前3次击倒敌人时使已激活的【叙拉古】层数+4、【奇迹】层数+2",
+    "art": "assets/operators/03_III阶/051_Ⅲ阶_伺夜.png"
+  },
+  {
+    "id": "wei_doctor:耶拉",
+    "name": "耶拉",
+    "tier": "Ⅲ阶",
+    "type": "攻击",
+    "cost": 1,
+    "bonds": [
+      "谢拉格",
+      "助力"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时对随机敌人造成20点攻击伤害，施加1层寒冷；若目标寒冷达到3层，移除3层寒冷并施加1层冻结；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，对随机敌人造成12点攻击伤害，施加1层寒冷；若目标寒冷达到3层，移除3层寒冷并施加1层冻结。",
+    "traitEffect": "筹措 1（谢拉格不融冰）",
+    "promotedTraitEffect": "筹措 2（谢拉格不融冰）",
+    "art": "assets/operators/03_III阶/052_Ⅲ阶_耶拉.png"
+  },
+  {
+    "id": "wei_doctor:空弦",
+    "name": "空弦",
+    "tier": "Ⅲ阶",
+    "type": "攻击",
+    "cost": 1,
+    "bonds": [
+      "拉特兰",
+      "灵巧"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时对生命最低的敌人造成20点攻击伤害，施加1层锁定；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，对生命最低的敌人造成12点攻击伤害，施加1层锁定。",
+    "traitEffect": "整备 3（自身与前一格）",
+    "promotedTraitEffect": "整备 6（自身与前一格）",
+    "art": "assets/operators/03_III阶/053_Ⅲ阶_空弦.png"
+  },
+  {
+    "id": "wei_doctor:信仰搅拌机",
+    "name": "信仰搅拌机",
+    "tier": "Ⅳ阶",
+    "type": "技能",
+    "cost": 2,
+    "bonds": [
+      "拉特兰",
+      "坚守"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时获得20点格挡，并对攻击意图最高的敌人施加2层锁定；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，获得12点格挡，并对攻击意图最高的敌人施加1层锁定。",
+    "traitEffect": "【拉特兰】【坚守】每叠加3层，本干员防御力+1% / （※仅在每次部署时判定盟约层数）",
+    "promotedTraitEffect": "【拉特兰】【坚守】每叠加3层，本干员防御力+2% / （※仅在每次部署时判定盟约层数）",
+    "art": "assets/operators/04_IV阶/054_Ⅳ阶_信仰搅拌机.png"
+  },
+  {
+    "id": "wei_doctor:莫斯提马",
+    "name": "莫斯提马",
+    "tier": "Ⅳ阶",
+    "type": "攻击",
+    "cost": 2,
+    "bonds": [
+      "拉特兰",
+      "奥术"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时对所有敌人直接造成17点伤害，施加2层锁定；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，对所有敌人直接造成11点伤害，施加1层锁定。",
+    "traitEffect": "<战斗中>自身周围4格的干员每总计消耗6次弹药，使已激活的【拉特兰】层数+1",
+    "promotedTraitEffect": "<战斗中>自身周围4格的干员每总计消耗6次弹药，使已激活的【拉特兰】层数+2",
+    "art": "assets/operators/04_IV阶/055_Ⅳ阶_莫斯提马.png"
+  },
+  {
+    "id": "wei_doctor:伊内丝",
+    "name": "伊内丝",
+    "tier": "Ⅳ阶",
+    "type": "能力",
+    "cost": 2,
+    "bonds": [
+      "远见",
+      "突袭"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 0,
+    "battleEffect": "打出时获得本场战斗持续状态【战术状态：伊内丝】。本场战斗每回合结束，若本回合部署过干员，获得12点格挡；若该干员任一所属盟约已激活，额外抽1张牌。",
+    "deployEffect": "能力牌不进入部署区，不产生部署区回合结束效果。",
+    "traitEffect": "整备 5（自身）",
+    "promotedTraitEffect": "整备 10（自身）",
+    "art": "assets/operators/04_IV阶/056_Ⅳ阶_伊内丝.png"
+  },
+  {
+    "id": "wei_doctor:蜜蜡",
+    "name": "蜜蜡",
+    "tier": "Ⅳ阶",
+    "type": "攻击",
+    "cost": 2,
+    "bonds": [
+      "萨尔贡",
+      "助力"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时对随机敌人造成25点攻击伤害，施加2层奥术脆弱；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，对随机敌人造成15点攻击伤害，施加1层奥术脆弱。",
+    "traitEffect": "筹措 1（迅捷作战粮）",
+    "promotedTraitEffect": "筹措 2（迅捷作战粮）",
+    "art": "assets/operators/04_IV阶/057_Ⅳ阶_蜜蜡.png"
+  },
+  {
+    "id": "wei_doctor:寒芒克洛丝",
+    "name": "寒芒克洛丝",
+    "tier": "Ⅳ阶",
+    "type": "攻击",
+    "cost": 2,
+    "bonds": [
+      "精准"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时对生命最低的敌人造成25点攻击伤害，施加2层锁定；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，对生命最低的敌人造成15点攻击伤害，施加1层锁定。",
+    "traitEffect": "<战斗开始时>使身前一格干员获得特质“开启技能时使已激活【精准】层数+1”（每场战斗至多10层）",
+    "promotedTraitEffect": "<战斗开始时>使身前一格干员获得特质“开启技能时使已激活【精准】层数+2”（每场战斗至多20层）",
+    "art": "assets/operators/04_IV阶/058_Ⅳ阶_寒芒克洛丝.png"
+  },
+  {
+    "id": "wei_doctor:风笛",
+    "name": "风笛",
+    "tier": "Ⅳ阶",
+    "type": "技能",
+    "cost": 2,
+    "bonds": [
+      "维多利亚",
+      "远见",
+      "不屈"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时获得18点格挡，抽1张牌，并对攻击意图最高的敌人施加1层虚弱；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，获得11点格挡，并对攻击意图最高的敌人施加1层虚弱。",
+    "traitEffect": "<战斗中>前3次击倒敌人时，使已激活的【维多利亚】【远见】【不屈】层数+2",
+    "promotedTraitEffect": "<战斗中>前3次击倒敌人时，使已激活的【维多利亚】【远见】【不屈】层数+4",
+    "art": "assets/operators/04_IV阶/059_Ⅳ阶_风笛.png"
+  },
+  {
+    "id": "wei_doctor:瑰盐",
+    "name": "瑰盐",
+    "tier": "Ⅳ阶",
+    "type": "能力",
+    "cost": 2,
+    "bonds": [
+      "协防干员"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 0,
+    "battleEffect": "打出时获得本场战斗持续状态【战术状态：瑰盐】。本场战斗每回合结束，若本回合部署过干员，获得12点格挡；若该干员任一所属盟约已激活，额外抽1张牌。",
+    "deployEffect": "能力牌不进入部署区，不产生部署区回合结束效果。",
+    "traitEffect": "<售出时>触发场上一名拥有“休整期结束时”的干员的特质（优先触发部署位置更靠上的和更靠右的）",
+    "promotedTraitEffect": "沿用普通特质，提高数值。",
+    "art": "assets/operators/04_IV阶/060_Ⅳ阶_瑰盐.png"
+  },
+  {
+    "id": "wei_doctor:水月",
+    "name": "水月",
+    "tier": "Ⅳ阶",
+    "type": "攻击",
+    "cost": 2,
+    "bonds": [
+      "阿戈尔",
+      "独行"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时对目标敌人造成25点攻击伤害，施加2层蚀甲；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，对目标敌人造成15点攻击伤害，施加1层蚀甲。",
+    "traitEffect": "【阿戈尔】每叠加3层，本干员攻击力+1% / （※仅在每次部署时判定盟约层数）",
+    "promotedTraitEffect": "【阿戈尔】每叠加3层，本干员攻击力+2% / （※仅在每次部署时判定盟约层数）",
+    "art": "assets/operators/04_IV阶/061_Ⅳ阶_水月.png"
+  },
+  {
+    "id": "wei_doctor:阿罗玛",
+    "name": "阿罗玛",
+    "tier": "Ⅳ阶",
+    "type": "攻击",
+    "cost": 2,
+    "bonds": [
+      "叙拉古",
+      "奥术"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时对随机敌人造成25点攻击伤害，施加1层虚弱；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，对随机敌人造成15点攻击伤害，施加1层虚弱。",
+    "traitEffect": "<休整期结束时>本回合每刷新过1次，使已激活的【叙拉古】【奥术】层数+2（至多6层）",
+    "promotedTraitEffect": "<休整期结束时>本回合每刷新过1次，使已激活的【叙拉古】【奥术】层数+4（每回合至多12层）",
+    "art": "assets/operators/04_IV阶/062_Ⅳ阶_阿罗玛.png"
+  },
+  {
+    "id": "wei_doctor:凯瑟琳",
+    "name": "凯瑟琳",
+    "tier": "Ⅳ阶",
+    "type": "技能",
+    "cost": 2,
+    "bonds": [
+      "维多利亚",
+      "灵巧"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时获得20点格挡，并对攻击意图最高的敌人施加1层易伤；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，获得12点格挡，并对攻击意图最高的敌人施加1层易伤。",
+    "traitEffect": "筹措 1（奇数回合进入休整期，随机装备）",
+    "promotedTraitEffect": "筹措 2（奇数回合进入休整期，随机装备）",
+    "art": "assets/operators/04_IV阶/063_Ⅳ阶_凯瑟琳.png"
+  },
+  {
+    "id": "wei_doctor:歌蕾蒂娅",
+    "name": "歌蕾蒂娅",
+    "tier": "Ⅳ阶",
+    "type": "攻击",
+    "cost": 2,
+    "bonds": [
+      "阿戈尔"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时对目标敌人造成25点攻击伤害，施加2层蚀甲；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，对目标敌人造成15点攻击伤害，施加1层蚀甲。",
+    "traitEffect": "筹措 1（同一行3名干员，斯卡蒂/幽灵鲨/深巡）",
+    "promotedTraitEffect": "筹措 2（同一行3名干员，斯卡蒂/幽灵鲨/深巡）",
+    "art": "assets/operators/04_IV阶/064_Ⅳ阶_歌蕾蒂娅.png"
+  },
+  {
+    "id": "wei_doctor:灵知",
+    "name": "灵知",
+    "tier": "Ⅳ阶",
+    "type": "能力",
+    "cost": 2,
+    "bonds": [
+      "谢拉格",
+      "灵巧"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 0,
+    "battleEffect": "打出时获得本场战斗持续状态【战术状态：灵知】。本场战斗每回合结束，若本回合部署过干员，获得12点格挡；若该干员任一所属盟约已激活，额外抽1张牌。",
+    "deployEffect": "能力牌不进入部署区，不产生部署区回合结束效果。",
+    "traitEffect": "天资 5",
+    "promotedTraitEffect": "天资 10",
+    "art": "assets/operators/04_IV阶/065_Ⅳ阶_灵知.png"
+  },
+  {
+    "id": "wei_doctor:莱恩哈特",
+    "name": "莱恩哈特",
+    "tier": "Ⅳ阶",
+    "type": "攻击",
+    "cost": 2,
+    "bonds": [
+      "迅捷",
+      "精准"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时对所有敌人造成17点攻击伤害，施加2层锁定；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，对所有敌人造成11点攻击伤害，施加1层锁定。",
+    "traitEffect": "整备 5（自身）",
+    "promotedTraitEffect": "整备 10（自身）",
+    "art": "assets/operators/04_IV阶/066_Ⅳ阶_莱恩哈特.png"
+  },
+  {
+    "id": "wei_doctor:缄默德克萨斯",
+    "name": "缄默德克萨斯",
+    "tier": "Ⅳ阶",
+    "type": "攻击",
+    "cost": 2,
+    "bonds": [
+      "叙拉古",
+      "突袭"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时对目标敌人造成25点攻击伤害，施加1层虚弱；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，对目标敌人造成15点攻击伤害，施加1层虚弱。",
+    "traitEffect": "筹措 1（进入休整期免费刷新）",
+    "promotedTraitEffect": "筹措 2（进入休整期免费刷新）",
+    "art": "assets/operators/04_IV阶/067_Ⅳ阶_缄默德克萨斯.png"
+  },
+  {
+    "id": "wei_doctor:星熊",
+    "name": "星熊",
+    "tier": "Ⅳ阶",
+    "type": "技能",
+    "cost": 2,
+    "bonds": [
+      "炎"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时获得20点格挡，并对攻击意图最高的敌人施加6层灼燃；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，获得12点格挡，并对攻击意图最高的敌人施加1层灼燃。",
+    "traitEffect": "天资 8",
+    "promotedTraitEffect": "天资 16",
+    "art": "assets/operators/04_IV阶/068_Ⅳ阶_星熊.png"
+  },
+  {
+    "id": "wei_doctor:泥岩",
+    "name": "泥岩",
+    "tier": "Ⅳ阶",
+    "type": "技能",
+    "cost": 2,
+    "bonds": [
+      "独行"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时获得20点格挡，并对攻击意图最高的敌人施加1层易伤；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，获得12点格挡，并对攻击意图最高的敌人施加1层易伤。",
+    "traitEffect": "筹措 2（售出后）",
+    "promotedTraitEffect": "筹措 4（售出后）",
+    "art": "assets/operators/04_IV阶/069_Ⅳ阶_泥岩.png"
+  },
+  {
+    "id": "wei_doctor:焰尾",
+    "name": "焰尾",
+    "tier": "Ⅳ阶",
+    "type": "能力",
+    "cost": 2,
+    "bonds": [
+      "卡西米尔"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 0,
+    "battleEffect": "打出时获得本场战斗持续状态【战术状态：焰尾】。本场战斗每回合结束，若本回合部署过干员，获得12点格挡；若该干员任一所属盟约已激活，额外抽1张牌。",
+    "deployEffect": "能力牌不进入部署区，不产生部署区回合结束效果。",
+    "traitEffect": "<获得时>获得1个野鬃或灰毫，50%概率获得远牙",
+    "promotedTraitEffect": "<获得时>获得2个野鬃或灰毫，50%概率获得远牙",
+    "art": "assets/operators/04_IV阶/070_Ⅳ阶_焰尾.png"
+  },
+  {
+    "id": "wei_doctor:远牙",
+    "name": "远牙",
+    "tier": "Ⅳ阶",
+    "type": "攻击",
+    "cost": 2,
+    "bonds": [
+      "卡西米尔",
+      "精准"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时对生命最低的敌人造成25点攻击伤害，施加2层锁定；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，对生命最低的敌人造成15点攻击伤害，施加1层锁定。",
+    "traitEffect": "<战斗开始时>使同一行最右边一名干员获得特质“<部署时>使已激活的【卡西米尔】【精准】层数+4（每场作战至多24层）”",
+    "promotedTraitEffect": "<战斗开始时>使同一行最右边一名干员获得特质“<部署时>使已激活的【卡西米尔】【精准】层数+8（每场作战至多48层）”",
+    "art": "assets/operators/04_IV阶/071_Ⅳ阶_远牙.png"
+  },
+  {
+    "id": "wei_doctor:白面鸮",
+    "name": "白面鸮",
+    "tier": "Ⅳ阶",
+    "type": "能力",
+    "cost": 2,
+    "bonds": [
+      "助力",
+      "灵巧"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 0,
+    "battleEffect": "打出时获得本场战斗持续状态【战术状态：白面鸮】。本场战斗每回合结束，若本回合部署过干员，获得12点格挡；若该干员任一所属盟约已激活，额外抽1张牌。",
+    "deployEffect": "能力牌不进入部署区，不产生部署区回合结束效果。",
+    "traitEffect": "身前一格干员若为“进入休整期时”特质，本干员的特质与其相同",
+    "promotedTraitEffect": "沿用普通特质，提高数值。",
+    "art": "assets/operators/04_IV阶/072_Ⅳ阶_白面鸮.png"
+  },
+  {
+    "id": "wei_doctor:银灰",
+    "name": "银灰",
+    "tier": "Ⅳ阶",
+    "type": "攻击",
+    "cost": 2,
+    "bonds": [
+      "谢拉格"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时对目标敌人直接造成25点伤害，施加2层寒冷；若目标寒冷达到3层，移除3层寒冷并施加1层冻结；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，对目标敌人直接造成15点伤害，施加1层寒冷；若目标寒冷达到3层，移除3层寒冷并施加1层冻结。",
+    "traitEffect": "<战斗中>每当范围内1名敌人进入冻结时，有50%概率使已激活的【谢拉格】层数+1",
+    "promotedTraitEffect": "<战斗中>每当范围内1名敌人进入冻结时，有50%概率使已激活的【谢拉格】层数+2",
+    "art": "assets/operators/04_IV阶/073_Ⅳ阶_银灰.png"
+  },
+  {
+    "id": "wei_doctor:百炼嘉维尔",
+    "name": "百炼嘉维尔",
+    "tier": "Ⅳ阶",
+    "type": "攻击",
+    "cost": 2,
+    "bonds": [
+      "萨尔贡"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时对所有敌人造成17点攻击伤害，施加1层易伤；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，对所有敌人造成11点攻击伤害，施加1层易伤。",
+    "traitEffect": "<战斗中>开启技能时，使已激活的【萨尔贡】层数+9",
+    "promotedTraitEffect": "<战斗中>开启技能时，使已激活的【萨尔贡】层数+18",
+    "art": "assets/operators/04_IV阶/074_Ⅳ阶_百炼嘉维尔.png"
+  },
+  {
+    "id": "wei_doctor:卡涅利安",
+    "name": "卡涅利安",
+    "tier": "Ⅳ阶",
+    "type": "攻击",
+    "cost": 2,
+    "bonds": [
+      "萨尔贡",
+      "助力"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时对随机敌人造成25点攻击伤害，施加2层奥术脆弱；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，对随机敌人造成15点攻击伤害，施加1层奥术脆弱。",
+    "traitEffect": "筹措 1（迅捷作战粮）",
+    "promotedTraitEffect": "筹措 2（迅捷作战粮）",
+    "art": "assets/operators/04_IV阶/075_Ⅳ阶_卡涅利安.png"
+  },
+  {
+    "id": "wei_doctor:魔王",
+    "name": "魔王",
+    "tier": "Ⅳ阶",
+    "type": "技能",
+    "cost": 2,
+    "bonds": [
+      "协防干员"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时获得18点格挡，抽1张牌，并对攻击意图最高的敌人施加2层奥术脆弱；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，获得11点格挡，并对攻击意图最高的敌人施加1层奥术脆弱。",
+    "traitEffect": "<战斗中>战斗中当本干员身前一格的干员因特质使层数提升时，使其额外层数+1",
+    "promotedTraitEffect": "<战斗中>战斗中当本干员身前一格的干员因特质使层数提升时，使其额外层数+2",
+    "art": "assets/operators/04_IV阶/076_Ⅳ阶_魔王.png"
+  },
+  {
+    "id": "wei_doctor:华法琳",
+    "name": "华法琳",
+    "tier": "Ⅳ阶",
+    "type": "技能",
+    "cost": 2,
+    "bonds": [
+      "奇迹"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时获得20点格挡，回复2点生命，移除博士1层负面状态；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，获得12点格挡，回复1点生命。",
+    "traitEffect": "<战斗开始时>使身前一格干员获得特质“开启技能时使自身所属已激活盟约层数+1”（每场战斗至多7层）",
+    "promotedTraitEffect": "<战斗开始时>使身前一格干员获得特质“开启技能时使自身所属已激活盟约层数+2”（每场战斗至多14层）",
+    "art": "assets/operators/04_IV阶/077_Ⅳ阶_华法琳.png"
+  },
+  {
+    "id": "wei_doctor:妮芙",
+    "name": "妮芙",
+    "tier": "Ⅴ阶",
+    "type": "技能",
+    "cost": 2,
+    "bonds": [
+      "迅捷"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时获得22点格挡，抽1张牌，并对攻击意图最高的敌人施加2层奥术脆弱；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，获得14点格挡，并对攻击意图最高的敌人施加1层奥术脆弱。",
+    "traitEffect": "<休整期结束时>整备区每有1个干员，使已激活的【迅捷】层数+2",
+    "promotedTraitEffect": "<休整期结束时>整备区每有1个干员，使已激活的【迅捷】层数+4",
+    "art": "assets/operators/05_V阶/078_Ⅴ阶_妮芙.png"
+  },
+  {
+    "id": "wei_doctor:圣约送葬人",
+    "name": "圣约送葬人",
+    "tier": "Ⅴ阶",
+    "type": "技能",
+    "cost": 2,
+    "bonds": [
+      "拉特兰",
+      "远见"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时获得22点格挡，抽1张牌，并对攻击意图最高的敌人施加2层锁定；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，获得14点格挡，并对攻击意图最高的敌人施加1层锁定。",
+    "traitEffect": "<战斗中>自身每消耗7发子弹，使已激活的【拉特兰】层数+7、【远见】层数+3（每场战斗分别至多触发7次）",
+    "promotedTraitEffect": "<战斗中>自身每消耗7发子弹，使已激活的【拉特兰】层数+14、【远见】层数+6（每场战斗至多触发7次）",
+    "art": "assets/operators/05_V阶/079_Ⅴ阶_圣约送葬人.png"
+  },
+  {
+    "id": "wei_doctor:缇缇",
+    "name": "缇缇",
+    "tier": "Ⅴ阶",
+    "type": "攻击",
+    "cost": 2,
+    "bonds": [
+      "萨尔贡",
+      "精准"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时对随机敌人造成30点攻击伤害，施加2层锁定；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，对随机敌人造成18点攻击伤害，施加1层锁定。",
+    "traitEffect": "<战斗中>每当范围内有敌人或干员进入沉睡或晕眩时，使已激活的【萨尔贡】【精准】层数+1（每场战斗至多24层） / （※不包括小睡；同一单位每0.05秒仅能使缇缇叠加1次盟约层数，但若该单位同时位于多个缇缇的范围内时，仅1个缇缇会受此限制）",
+    "promotedTraitEffect": "<战斗中>每当范围内有敌人或干员进入沉睡或晕眩时，使已激活的【萨尔贡】【精准】层数+2（每场战斗至多48层） / （※不包括小睡；同一单位每0.05秒仅能使缇缇叠加1次盟约层数，但若该单位同时位于多个缇缇的范围内时，仅1个缇缇会受此限制）",
+    "art": "assets/operators/05_V阶/080_Ⅴ阶_缇缇.png"
+  },
+  {
+    "id": "wei_doctor:烛煌",
+    "name": "烛煌",
+    "tier": "Ⅴ阶",
+    "type": "攻击",
+    "cost": 2,
+    "bonds": [
+      "维多利亚",
+      "炎"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时对随机敌人造成30点攻击伤害，施加8层灼燃；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，对随机敌人造成18点攻击伤害，施加1层灼燃。",
+    "traitEffect": "<获得时>【炎】【维多利亚】层数+5（无需激活盟约）",
+    "promotedTraitEffect": "<获得时>【炎】【维多利亚】层数+10（无需激活盟约）",
+    "art": "assets/operators/05_V阶/081_Ⅴ阶_烛煌.png"
+  },
+  {
+    "id": "wei_doctor:乌尔比安",
+    "name": "乌尔比安",
+    "tier": "Ⅴ阶",
+    "type": "攻击",
+    "cost": 2,
+    "bonds": [
+      "阿戈尔"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时对目标敌人造成30点攻击伤害，施加2层蚀甲；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，对目标敌人造成18点攻击伤害，施加1层蚀甲。",
+    "traitEffect": "【阿戈尔】每叠加2层，本干员攻击力+1% / （※仅在每次部署时判定盟约层数）",
+    "promotedTraitEffect": "【阿戈尔】每叠加2层，本干员攻击力+2% / （※仅在每次部署时判定盟约层数）",
+    "art": "assets/operators/05_V阶/082_Ⅴ阶_乌尔比安.png"
+  },
+  {
+    "id": "wei_doctor:隐德来希",
+    "name": "隐德来希",
+    "tier": "Ⅴ阶",
+    "type": "技能",
+    "cost": 2,
+    "bonds": [
+      "不屈",
+      "灵巧"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时获得22点格挡，抽1张牌，并对攻击意图最高的敌人施加2层虚弱；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，获得14点格挡，并对攻击意图最高的敌人施加1层虚弱。",
+    "traitEffect": "核心盟约每叠加3层，本干员攻击力和生命值+1% / （※仅在每次部署时判定盟约层数）",
+    "promotedTraitEffect": "核心盟约每叠加3层，本干员攻击力和生命值+2% / （※仅在每次部署时判定盟约层数）",
+    "art": "assets/operators/05_V阶/083_Ⅴ阶_隐德来希.png"
+  },
+  {
+    "id": "wei_doctor:史尔特尔",
+    "name": "史尔特尔",
+    "tier": "Ⅴ阶",
+    "type": "攻击",
+    "cost": 2,
+    "bonds": [
+      "突袭",
+      "奥术"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时对目标敌人造成30点攻击伤害，施加2层奥术脆弱；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，对目标敌人造成18点攻击伤害，施加1层奥术脆弱。",
+    "traitEffect": "号召 8（突袭）（每场作战至多50层）",
+    "promotedTraitEffect": "号召 16（突袭）（每场作战至多100层）",
+    "art": "assets/operators/05_V阶/084_Ⅴ阶_史尔特尔.png"
+  },
+  {
+    "id": "wei_doctor:号角",
+    "name": "号角",
+    "tier": "Ⅴ阶",
+    "type": "技能",
+    "cost": 2,
+    "bonds": [
+      "维多利亚"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时获得24点格挡，并对攻击意图最高的敌人施加2层易伤；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，获得15点格挡，并对攻击意图最高的敌人施加1层易伤。",
+    "traitEffect": "<休整期结束时>当前已激活且层数最多的盟约每有1名不同阶干员在场，层数+2",
+    "promotedTraitEffect": "<休整期结束时>当前已激活且层数最多的盟约每有1名不同阶干员在场，层数+4",
+    "art": "assets/operators/05_V阶/085_Ⅴ阶_号角.png"
+  },
+  {
+    "id": "wei_doctor:铃兰",
+    "name": "铃兰",
+    "tier": "Ⅴ阶",
+    "type": "技能",
+    "cost": 2,
+    "bonds": [
+      "叙拉古",
+      "协防干员"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时获得22点格挡，抽1张牌，并对攻击意图最高的敌人施加2层虚弱；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，获得14点格挡，并对攻击意图最高的敌人施加1层虚弱。",
+    "traitEffect": "<进入休整期时>触发身前一格的其他干员的“获得时”类效果",
+    "promotedTraitEffect": "<进入休整期时>触发身前两格的其他干员的“获得时”类效果",
+    "art": "assets/operators/05_V阶/086_Ⅴ阶_铃兰.png"
+  },
+  {
+    "id": "wei_doctor:塞雷娅",
+    "name": "塞雷娅",
+    "tier": "Ⅴ阶",
+    "type": "技能",
+    "cost": 2,
+    "bonds": [
+      "坚守",
+      "独行"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时获得24点格挡，回复3点生命，移除博士1层负面状态；若未移除，抽1张牌；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，获得15点格挡，回复1点生命。",
+    "traitEffect": "身前一格干员若为“休整期结束时”特质，本干员的特质与其相同",
+    "promotedTraitEffect": "沿用普通特质，提高数值。",
+    "art": "assets/operators/05_V阶/087_Ⅴ阶_塞雷娅.png"
+  },
+  {
+    "id": "wei_doctor:夕",
+    "name": "夕",
+    "tier": "Ⅴ阶",
+    "type": "攻击",
+    "cost": 2,
+    "bonds": [
+      "炎",
+      "奥术"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时对随机敌人直接造成30点伤害，施加8层灼燃；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，对随机敌人直接造成18点伤害，施加1层灼燃。",
+    "traitEffect": "<休整期结束时>当前休整期每获得过一名干员，使已激活的【炎】【奥术】层数+2",
+    "promotedTraitEffect": "<休整期结束时>当前休整期每获得过一名干员，使已激活的【炎】【奥术】层数+4",
+    "art": "assets/operators/05_V阶/088_Ⅴ阶_夕.png"
+  },
+  {
+    "id": "wei_doctor:归溟幽灵鲨",
+    "name": "归溟幽灵鲨",
+    "tier": "Ⅴ阶",
+    "type": "攻击",
+    "cost": 2,
+    "bonds": [
+      "阿戈尔",
+      "不屈"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时对目标敌人造成30点攻击伤害，施加2层蚀甲；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，对目标敌人造成18点攻击伤害，施加1层蚀甲。",
+    "traitEffect": "<战斗中>自身被击倒或替身与本体进行切换时，使已激活的【阿戈尔】层数+5、【不屈】层数+5",
+    "promotedTraitEffect": "<战斗中>自身被击倒或替身与本体进行切换时，使已激活的【阿戈尔】层数+10、【不屈】层数+10",
+    "art": "assets/operators/05_V阶/089_Ⅴ阶_归溟幽灵鲨.png"
+  },
+  {
+    "id": "wei_doctor:凛御银灰",
+    "name": "凛御银灰",
+    "tier": "Ⅴ阶",
+    "type": "攻击",
+    "cost": 2,
+    "bonds": [
+      "谢拉格",
+      "投资人",
+      "迅捷"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时对目标敌人造成30点攻击伤害，施加2层寒冷；若目标寒冷达到3层，移除3层寒冷并施加1层冻结；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，对目标敌人造成18点攻击伤害，施加1层寒冷；若目标寒冷达到3层，移除3层寒冷并施加1层冻结。",
+    "traitEffect": "<战斗开始时>使身前一格【谢拉格】干员获得特质“范围内1名敌人进入冻结时，有60%概率使已激活的【谢拉格】层数+1”",
+    "promotedTraitEffect": "<战斗开始时>使身前一格【谢拉格】干员获得特质“范围内1名敌人进入冻结时，有60%概率使已激活的【谢拉格】层数+2”",
+    "art": "assets/operators/05_V阶/090_Ⅴ阶_凛御银灰.png"
+  },
+  {
+    "id": "wei_doctor:引星棘刺",
+    "name": "引星棘刺",
+    "tier": "Ⅴ阶",
+    "type": "攻击",
+    "cost": 2,
+    "bonds": [
+      "迅捷",
+      "奇迹"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时对生命最低的敌人造成30点攻击伤害，施加2层缓慢；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，对生命最低的敌人造成18点攻击伤害，施加1层缓慢。",
+    "traitEffect": "<休整期结束时>使自身及身前一格干员的已激活盟约分别各层数+4",
+    "promotedTraitEffect": "<休整期结束时>使自身及身前一格干员的已激活盟约分别各层数+8",
+    "art": "assets/operators/05_V阶/091_Ⅴ阶_引星棘刺.png"
+  },
+  {
+    "id": "wei_doctor:山",
+    "name": "山",
+    "tier": "Ⅴ阶",
+    "type": "攻击",
+    "cost": 2,
+    "bonds": [
+      "投资人"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时对目标敌人造成30点攻击伤害，施加2层易伤；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，对目标敌人造成18点攻击伤害，施加1层易伤。",
+    "traitEffect": "整备 1（每获得1名干员，投资人）",
+    "promotedTraitEffect": "整备 2（每获得1名干员，投资人）",
+    "art": "assets/operators/05_V阶/092_Ⅴ阶_山.png"
+  },
+  {
+    "id": "wei_doctor:玛恩纳",
+    "name": "玛恩纳",
+    "tier": "Ⅴ阶",
+    "type": "技能",
+    "cost": 2,
+    "bonds": [
+      "卡西米尔"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时获得22点格挡，抽1张牌，并对攻击意图最高的敌人施加2层易伤；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，获得14点格挡，并对攻击意图最高的敌人施加1层易伤。",
+    "traitEffect": "【卡西米尔】每叠加5层，本干员部署后100秒内基础攻击力+10、基础生命值+50",
+    "promotedTraitEffect": "【卡西米尔】每叠加5层，本干员部署后100秒内基础攻击力+20、基础生命值+100",
+    "art": "assets/operators/05_V阶/093_Ⅴ阶_玛恩纳.png"
+  },
+  {
+    "id": "wei_doctor:安洁莉娜",
+    "name": "安洁莉娜",
+    "tier": "Ⅴ阶",
+    "type": "能力",
+    "cost": 2,
+    "bonds": [
+      "叙拉古",
+      "奇迹"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 0,
+    "battleEffect": "打出时获得本场战斗持续状态【战术状态：安洁莉娜】。本场战斗每回合结束，若本回合部署过干员，获得15点格挡；若该干员任一所属盟约已激活，额外抽1张牌。",
+    "deployEffect": "能力牌不进入部署区，不产生部署区回合结束效果。",
+    "traitEffect": "<休整期结束时>本回合每刷新过1次，使已激活的【叙拉古】层数+4（每回合至多12层）",
+    "promotedTraitEffect": "<休整期结束时>本回合每刷新过1次，使已激活的【叙拉古】层数+8（每回合至多24层）",
+    "art": "assets/operators/05_V阶/094_Ⅴ阶_安洁莉娜.png"
+  },
+  {
+    "id": "wei_doctor:寒檀",
+    "name": "寒檀",
+    "tier": "Ⅴ阶",
+    "type": "能力",
+    "cost": 2,
+    "bonds": [
+      "远见"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 0,
+    "battleEffect": "打出时获得本场战斗持续状态【战术状态：寒檀】。本场战斗每回合结束，若本回合部署过干员，获得15点格挡；若该干员任一所属盟约已激活，额外抽1张牌。",
+    "deployEffect": "能力牌不进入部署区，不产生部署区回合结束效果。",
+    "traitEffect": "<进入休整期时>整备 4（远见）",
+    "promotedTraitEffect": "<进入休整期时>整备 8（远见）",
+    "art": "assets/operators/05_V阶/095_Ⅴ阶_寒檀.png"
+  },
+  {
+    "id": "wei_doctor:录武官",
+    "name": "录武官",
+    "tier": "Ⅴ阶",
+    "type": "攻击",
+    "cost": 2,
+    "bonds": [
+      "炎",
+      "奇迹"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时对目标敌人造成30点攻击伤害，施加8层灼燃；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，对目标敌人造成18点攻击伤害，施加1层灼燃。",
+    "traitEffect": "<获得时>【炎】层数+6、【奇迹】层数+3（无需激活盟约）",
+    "promotedTraitEffect": "<获得时>【炎】层数+12、【奇迹】层数+6（无需激活盟约）",
+    "art": "assets/operators/05_V阶/096_Ⅴ阶_录武官.png"
+  },
+  {
+    "id": "wei_doctor:蕾缪安",
+    "name": "蕾缪安",
+    "tier": "Ⅵ阶",
+    "type": "技能",
+    "cost": 3,
+    "bonds": [
+      "拉特兰",
+      "精准"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时获得26点格挡，抽1张牌，并对攻击意图最高的敌人施加2层锁定；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，获得16点格挡，并对攻击意图最高的敌人施加1层锁定。",
+    "traitEffect": "<战斗中>自身每消耗10发子弹，若同一行有3名干员，使已激活的【拉特兰】【精准】层数+2",
+    "promotedTraitEffect": "<战斗中>自身每消耗10发子弹，若同一行有3名干员，使已激活的【拉特兰】【精准】层数+4",
+    "art": "assets/operators/06_VI阶/097_Ⅵ阶_蕾缪安.png"
+  },
+  {
+    "id": "wei_doctor:圣聆初雪",
+    "name": "圣聆初雪",
+    "tier": "Ⅵ阶",
+    "type": "技能",
+    "cost": 3,
+    "bonds": [
+      "谢拉格",
+      "奥术"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时获得26点格挡，抽1张牌，并对攻击意图最高的敌人施加2层寒冷；若目标寒冷达到3层，移除3层寒冷并施加1层冻结；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，获得16点格挡，并对攻击意图最高的敌人施加1层寒冷；若目标寒冷达到3层，移除3层寒冷并施加1层冻结。",
+    "traitEffect": "【谢拉格】【奥术】每叠加3层，本干员攻击力+1% / （※仅在每次部署时判定盟约层数）",
+    "promotedTraitEffect": "【谢拉格】【奥术】每叠加3层，本干员攻击力+2% / （※仅在每次部署时判定盟约层数）",
+    "art": "assets/operators/06_VI阶/098_Ⅵ阶_圣聆初雪.png"
+  },
+  {
+    "id": "wei_doctor:余",
+    "name": "余",
+    "tier": "Ⅵ阶",
+    "type": "技能",
+    "cost": 3,
+    "bonds": [
+      "炎",
+      "坚守"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时获得29点格挡，并对攻击意图最高的敌人施加9层灼燃；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，获得18点格挡，并对攻击意图最高的敌人施加1层灼燃。",
+    "traitEffect": "<进入休整期时>若同一行有3名干员，随机获得1名当前人数最多盟约的干员",
+    "promotedTraitEffect": "<进入休整期时>随机获得1名当前人数最多盟约的干员",
+    "art": "assets/operators/06_VI阶/099_Ⅵ阶_余.png"
+  },
+  {
+    "id": "wei_doctor:浊心斯卡蒂",
+    "name": "浊心斯卡蒂",
+    "tier": "Ⅵ阶",
+    "type": "技能",
+    "cost": 3,
+    "bonds": [
+      "阿戈尔"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时获得26点格挡，抽1张牌，并对攻击意图最高的敌人施加2层蚀甲；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，获得16点格挡，并对攻击意图最高的敌人施加1层蚀甲。",
+    "traitEffect": "【阿戈尔】每叠加10层，本干员每秒回复50生命，自然技力回复速度+0.15/秒 / （※生命回复的实现方式为增加生命回复速度，且仅在每次部署时判定盟约层数）",
+    "promotedTraitEffect": "【阿戈尔】每叠加10层，本干员每秒回复100生命，自然技力回复速度+0.3/秒 / （※生命回复的实现方式为增加生命回复速度，且仅在每次部署时判定盟约层数）",
+    "art": "assets/operators/06_VI阶/100_Ⅵ阶_浊心斯卡蒂.png"
+  },
+  {
+    "id": "wei_doctor:异客",
+    "name": "异客",
+    "tier": "Ⅵ阶",
+    "type": "技能",
+    "cost": 3,
+    "bonds": [
+      "萨尔贡",
+      "迅捷",
+      "精准"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时获得26点格挡，抽1张牌，并对攻击意图最高的敌人施加2层锁定；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，获得16点格挡，并对攻击意图最高的敌人施加1层锁定。",
+    "traitEffect": "【萨尔贡】【迅捷】【精准】每叠加3层，本干员攻击力+2% / （※仅在每次部署时判定盟约层数）",
+    "promotedTraitEffect": "【萨尔贡】【迅捷】【精准】每叠加3层，本干员攻击力+4% / （※仅在每次部署时判定盟约层数）",
+    "art": "assets/operators/06_VI阶/101_Ⅵ阶_异客.png"
+  },
+  {
+    "id": "wei_doctor:佩佩",
+    "name": "佩佩",
+    "tier": "Ⅵ阶",
+    "type": "技能",
+    "cost": 3,
+    "bonds": [
+      "萨尔贡",
+      "不屈"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时获得26点格挡，抽1张牌，并对攻击意图最高的敌人施加2层虚弱；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，获得16点格挡，并对攻击意图最高的敌人施加1层虚弱。",
+    "traitEffect": "<进入休整期时>获得1件“盟约之币”或“萨尔贡浓茶”，有50%概率发现“黄沙罗盘”",
+    "promotedTraitEffect": "<进入休整期时>获得2件“盟约之币”或“萨尔贡浓茶”，有50%概率发现“黄沙罗盘”",
+    "art": "assets/operators/06_VI阶/102_Ⅵ阶_佩佩.png"
+  },
+  {
+    "id": "wei_doctor:维娜_维多利亚",
+    "name": "维娜·维多利亚",
+    "tier": "Ⅵ阶",
+    "type": "能力",
+    "cost": 3,
+    "bonds": [
+      "维多利亚",
+      "奇迹"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 0,
+    "battleEffect": "打出时获得本场战斗持续状态【战术状态：维娜·维多利亚】。本场战斗每回合结束，若本回合部署过干员，获得18点格挡；若该干员任一所属盟约已激活，额外抽1张牌。",
+    "deployEffect": "能力牌不进入部署区，不产生部署区回合结束效果。",
+    "traitEffect": "<休整期结束时>场上每有1名不同阶的【维多利亚】/【奇迹】干员使已激活的【维多利亚】层数+3/【奇迹】层数+2",
+    "promotedTraitEffect": "<休整期结束时>场上每有1名不同阶的【维多利亚】/【奇迹】干员使已激活的【维多利亚】层数+6/【奇迹】层数+4",
+    "art": "assets/operators/06_VI阶/103_Ⅵ阶_维娜·维多利亚.png"
+  },
+  {
+    "id": "wei_doctor:焰影苇草",
+    "name": "焰影苇草",
+    "tier": "Ⅵ阶",
+    "type": "技能",
+    "cost": 3,
+    "bonds": [
+      "维多利亚",
+      "精准"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时获得29点格挡，回复3点生命，移除博士1层负面状态；若未移除，抽1张牌；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，获得18点格挡，回复1点生命。",
+    "traitEffect": "【维多利亚】每叠加3层，本干员命中时施加1层缓慢 / （※仅在每次部署时判定盟约层数）",
+    "promotedTraitEffect": "【维多利亚】每叠加3层，本干员命中时施加2层缓慢 / （※仅在每次部署时判定盟约层数）",
+    "art": "assets/operators/06_VI阶/104_Ⅵ阶_焰影苇草.png"
+  },
+  {
+    "id": "wei_doctor:塑心",
+    "name": "塑心",
+    "tier": "Ⅵ阶",
+    "type": "技能",
+    "cost": 3,
+    "bonds": [
+      "拉特兰"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时获得26点格挡，抽1张牌，并对攻击意图最高的敌人施加2层锁定；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，获得16点格挡，并对攻击意图最高的敌人施加1层锁定。",
+    "traitEffect": "<战斗中>开启技能时，同一行每有1名干员，当前已激活且层数最多的盟约层数+1（每场作战至多10层）",
+    "promotedTraitEffect": "<战斗中>开启技能时，同一行每有1名干员，当前已激活且层数最多的盟约层数+2（每场作战至多20层）",
+    "art": "assets/operators/06_VI阶/105_Ⅵ阶_塑心.png"
+  },
+  {
+    "id": "wei_doctor:缪尔赛思",
+    "name": "缪尔赛思",
+    "tier": "Ⅵ阶",
+    "type": "技能",
+    "cost": 3,
+    "bonds": [
+      "调和"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时获得26点格挡，抽1张牌，并对攻击意图最高的敌人施加2层易伤；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，获得16点格挡，并对攻击意图最高的敌人施加1层易伤。",
+    "traitEffect": "<获得时>获得1个“变形同构体”",
+    "promotedTraitEffect": "<获得时>获得2个“变形同构体”",
+    "art": "assets/operators/06_VI阶/106_Ⅵ阶_缪尔赛思.png"
+  },
+  {
+    "id": "wei_doctor:迷迭香",
+    "name": "迷迭香",
+    "tier": "Ⅵ阶",
+    "type": "技能",
+    "cost": 3,
+    "bonds": [
+      "精准",
+      "远见",
+      "协防干员"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时获得26点格挡，抽1张牌，并对攻击意图最高的敌人施加2层锁定；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，获得16点格挡，并对攻击意图最高的敌人施加1层锁定。",
+    "traitEffect": "攻击力和生命值+20%；核心盟约每叠加3层，本干员攻击力和生命值+1% / （※仅在每次部署时判定盟约层数）",
+    "promotedTraitEffect": "攻击力和生命值+40%；核心盟约每叠加3层，本干员攻击力和生命值+2% / （※仅在每次部署时判定盟约层数）",
+    "art": "assets/operators/06_VI阶/107_Ⅵ阶_迷迭香.png"
+  },
+  {
+    "id": "wei_doctor:新约能天使",
+    "name": "新约能天使",
+    "tier": "Ⅵ阶",
+    "type": "技能",
+    "cost": 3,
+    "bonds": [
+      "拉特兰"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时获得26点格挡，抽1张牌，并对攻击意图最高的敌人施加2层锁定；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，获得16点格挡，并对攻击意图最高的敌人施加1层锁定。",
+    "traitEffect": "筹措 2（下个休整期资金）",
+    "promotedTraitEffect": "筹措 4（下个休整期资金）",
+    "art": "assets/operators/06_VI阶/108_Ⅵ阶_新约能天使.png"
+  },
+  {
+    "id": "wei_doctor:流明",
+    "name": "流明",
+    "tier": "Ⅵ阶",
+    "type": "能力",
+    "cost": 3,
+    "bonds": [
+      "助力"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 0,
+    "battleEffect": "打出时获得本场战斗持续状态【战术状态：流明】。本场战斗每回合结束，若本回合部署过干员，获得18点格挡；若该干员任一所属盟约已激活，额外抽1张牌。",
+    "deployEffect": "能力牌不进入部署区，不产生部署区回合结束效果。",
+    "traitEffect": "<休整期结束时>整备区中每名干员所在的已激活盟约分别层数+2",
+    "promotedTraitEffect": "<休整期结束时>整备区中每名干员所在的已激活盟约分别层数+4",
+    "art": "assets/operators/06_VI阶/109_Ⅵ阶_流明.png"
+  },
+  {
+    "id": "wei_doctor:仇白",
+    "name": "仇白",
+    "tier": "Ⅵ阶",
+    "type": "技能",
+    "cost": 3,
+    "bonds": [
+      "炎",
+      "突袭"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时获得26点格挡，抽1张牌，并对攻击意图最高的敌人施加9层灼燃；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，获得16点格挡，并对攻击意图最高的敌人施加1层灼燃。",
+    "traitEffect": "【炎】【突袭】每叠加3层，本干员攻击束缚和停顿状态的敌人造成的伤害提升1%",
+    "promotedTraitEffect": "【炎】【突袭】每叠加3层，本干员攻击束缚和停顿状态的敌人造成的伤害提升2%",
+    "art": "assets/operators/06_VI阶/110_Ⅵ阶_仇白.png"
+  },
+  {
+    "id": "wei_doctor:溯光星源",
+    "name": "溯光星源",
+    "tier": "Ⅵ阶",
+    "type": "能力",
+    "cost": 3,
+    "bonds": [
+      "奥术",
+      "灵巧"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 0,
+    "battleEffect": "打出时获得本场战斗持续状态【战术状态：溯光星源】。本场战斗每回合结束，若本回合部署过干员，获得18点格挡；若该干员任一所属盟约已激活，额外抽1张牌。",
+    "deployEffect": "能力牌不进入部署区，不产生部署区回合结束效果。",
+    "traitEffect": "<休整期结束时>本回合每花费3资金，使已激活的【灵巧】【奥术】层数+2",
+    "promotedTraitEffect": "<休整期结束时>本回合每花费3资金，使已激活的【灵巧】【奥术】层数+4",
+    "art": "assets/operators/06_VI阶/111_Ⅵ阶_溯光星源.png"
+  },
+  {
+    "id": "wei_doctor:耀骑士临光",
+    "name": "耀骑士临光",
+    "tier": "Ⅵ阶",
+    "type": "技能",
+    "cost": 3,
+    "bonds": [
+      "卡西米尔",
+      "突袭"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时获得26点格挡，抽1张牌，并对攻击意图最高的敌人施加2层易伤；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，获得16点格挡，并对攻击意图最高的敌人施加1层易伤。",
+    "traitEffect": "<战斗开始时>使自身和身前一格干员获得特质“【卡西米尔】每叠加3层，本干员再部署时间-1.5%，命中时施加0层缓慢.5”",
+    "promotedTraitEffect": "<战斗开始时>使自身和身前一格干员获得特质“【卡西米尔】每叠加3层，本干员再部署时间-3%，命中时施加1层缓慢”",
+    "art": "assets/operators/06_VI阶/112_Ⅵ阶_耀骑士临光.png"
+  },
+  {
+    "id": "wei_doctor:荒芜拉普兰德",
+    "name": "荒芜拉普兰德",
+    "tier": "Ⅵ阶",
+    "type": "技能",
+    "cost": 3,
+    "bonds": [
+      "叙拉古"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时获得26点格挡，抽1张牌，并对攻击意图最高的敌人施加2层虚弱；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，获得16点格挡，并对攻击意图最高的敌人施加1层虚弱。",
+    "traitEffect": "<战斗中>击倒敌人时，使已激活的【叙拉古】层数+2 / 将荒芜拉普兰德合成为精锐即可在战斗中使所有【叙拉古】干员获得该效果",
+    "promotedTraitEffect": "<战斗开始时>使所有【叙拉古】干员获得特质“击倒敌人时，使已激活的【叙拉古】层数+2”",
+    "art": "assets/operators/06_VI阶/113_Ⅵ阶_荒芜拉普兰德.png"
+  },
+  {
+    "id": "wei_doctor:锏",
+    "name": "锏",
+    "tier": "Ⅵ阶",
+    "type": "技能",
+    "cost": 3,
+    "bonds": [
+      "谢拉格",
+      "卡西米尔",
+      "迅捷"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时获得26点格挡，抽1张牌，并对攻击意图最高的敌人施加2层寒冷；若目标寒冷达到3层，移除3层寒冷并施加1层冻结；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，获得16点格挡，并对攻击意图最高的敌人施加1层寒冷；若目标寒冷达到3层，移除3层寒冷并施加1层冻结。",
+    "traitEffect": "天资 8 / 号召 8（至多24层）",
+    "promotedTraitEffect": "天资 16 / 号召 16（至多48层）",
+    "art": "assets/operators/06_VI阶/114_Ⅵ阶_锏.png"
+  },
+  {
+    "id": "wei_doctor:纯烬艾雅法拉",
+    "name": "纯烬艾雅法拉",
+    "tier": "Ⅵ阶",
+    "type": "技能",
+    "cost": 3,
+    "bonds": [
+      "助力"
+    ],
+    "rewardPool": "普通干员池",
+    "deployTurns": 3,
+    "battleEffect": "打出时获得29点格挡，回复3点生命，移除博士1层负面状态；若未移除，抽1张牌；随后部署3回合。",
+    "deployEffect": "回合结束若仍在部署区，获得18点格挡，回复1点生命。",
+    "traitEffect": "<战斗中>开启技能时，当前已激活且层数最多的盟约层数+3",
+    "promotedTraitEffect": "<战斗中>开启技能时，当前已激活且层数最多的盟约层数+6",
+    "art": "assets/operators/06_VI阶/115_Ⅵ阶_纯烬艾雅法拉.png"
+  }
+]

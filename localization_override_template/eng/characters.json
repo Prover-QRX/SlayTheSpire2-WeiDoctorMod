@@ -1,0 +1,14 @@
+{
+  "WEI_DOCTOR_CHARACTER_DOCTOR_CHARACTER.title": "Doctor",
+  "WEI_DOCTOR_CHARACTER_DOCTOR_CHARACTER.titleObject": "Doctor",
+  "WEI_DOCTOR_CHARACTER_DOCTOR_CHARACTER.description": "Command operators through the Dispatch Center, deployment, promotion, and covenant relics.",
+  "WEI_DOCTOR_CHARACTER_DOCTOR_CHARACTER.unlockText": "Unlocked.",
+  "WEI_DOCTOR_CHARACTER_DOCTOR_CHARACTER.bestiaryQuote": "The Doctor is recording enemy actions.",
+  "WEI_DOCTOR_CHARACTER_DOCTOR_CHARACTER.pronounObject": "the Doctor",
+  "WEI_DOCTOR_CHARACTER_DOCTOR_CHARACTER.possessiveAdjective": "the Doctor's",
+  "WEI_DOCTOR_CHARACTER_DOCTOR_CHARACTER.pronounPossessive": "the Doctor's",
+  "WEI_DOCTOR_CHARACTER_DOCTOR_CHARACTER.pronounSubject": "the Doctor",
+  "WEI_DOCTOR_CHARACTER_DOCTOR_CHARACTER.cardsModifierTitle": "Doctor Deck",
+  "WEI_DOCTOR_CHARACTER_DOCTOR_CHARACTER.cardsModifierDescription": "The Doctor fights with operators, tactical commands, and covenant relics.",
+  "WEI_DOCTOR_CHARACTER_DOCTOR_CHARACTER.eventDeathPrevention": "The Doctor replanned the extraction route."
+}

@@ -1,0 +1,30 @@
+{
+  "character": "博士",
+  "starterCards": [
+    {
+      "id": "wei_doctor:tactical_front",
+      "name": "战术指令：前线",
+      "type": "攻击",
+      "cost": 1,
+      "count": 4,
+      "effect": "造成6点攻击伤害。",
+      "art": "assets/basic_cards/战术指令：前线.png"
+    },
+    {
+      "id": "wei_doctor:tactical_rear",
+      "name": "战术指令：后方",
+      "type": "技能",
+      "cost": 1,
+      "count": 4,
+      "effect": "获得5点格挡。",
+      "art": "assets/basic_cards/战术指令：后方.png"
+    }
+  ],
+  "draft": {
+    "sourceTier": "Ⅰ阶",
+    "sourcePool": "普通干员池",
+    "offerCount": 10,
+    "pickCount": 2,
+    "configurable": true
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "WEI_DOCTOR_RELIC_DISPATCH_CENTER_RELIC.title": "调度中心",
+  "WEI_DOCTOR_RELIC_DISPATCH_CENTER_RELIC.description": "拥有 3 个部署位。干员牌打出并正常结算后进入部署区；若部署位已满，最早部署的干员撤退并加入弃牌堆。部署持续时间结束后，该干员返回抽牌堆。",
+  "WEI_DOCTOR_RELIC_DISPATCH_CENTER_RELIC.flavor": "一切行动都从清晰的调度开始。"
+}

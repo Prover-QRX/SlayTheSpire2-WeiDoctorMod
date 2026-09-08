@@ -1,0 +1,46 @@
+{
+  "version": "1.0.0",
+  "target": "Slay the Spire 2 beta 0.111.0+",
+  "scope": [
+    "博士角色",
+    "初始卡组",
+    "调度中心等级",
+    "干员卡奖励池按等级限制",
+    "3个部署位",
+    "干员打出后部署",
+    "部署位满时撤退最早干员",
+    "回合结束触发部署区效果",
+    "三合一晋升"
+  ],
+  "deployment": {
+    "slots": 3,
+    "fullSlotRule": "部署位已满时，撤退最早部署的一名干员并将其置入弃牌堆；新干员随后进入空出的部署位。",
+    "triggerOrder": "打出时先结算即时战斗效果；回合结束时按部署先后顺序结算部署区效果。",
+    "cardReturn": "部署回合归零时视为技能结束，离开部署区并回到抽牌堆。",
+    "powerCards": "能力牌不进入部署区；打出后给博士添加本场战斗持续状态。"
+  },
+  "promotion": {
+    "input": "3张同名同阶干员卡",
+    "output": "移除3张，加入1张晋升干员卡",
+    "tierChange": false,
+    "bonusReward": "附赠当前调度中心等级+1的三选一卡牌奖励，仍受最高Ⅵ阶限制。"
+  },
+  "dispatchCenter": {
+    "minLevel": 1,
+    "maxLevel": 6,
+    "restSiteUpgrade": "由初始遗物提供，不占休息处行动力。",
+    "rewardCap": "普通卡牌奖励、商店、调度中心奖励不高于当前调度中心等级。",
+    "costFormulaDraft": "升级费用 = max(20, 45 + 25 × 当前等级 - 2 × 已前进层数)"
+  },
+  "randomMode": {
+    "enabledDefault": false,
+    "runPoolLockedAtStart": true,
+    "cardPrototypeParts": [
+      "头像来源",
+      "前半名称来源",
+      "后半名称来源"
+    ],
+    "effectPoolRule": "效果和盟约只从头像、前半名、后半名三个来源干员内抽取，不从全干员池抽取。",
+    "sentenceFragmentation": true
+  }
+}

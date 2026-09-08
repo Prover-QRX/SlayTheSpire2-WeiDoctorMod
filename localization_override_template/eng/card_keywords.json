@@ -1,0 +1,4 @@
+{
+  "WEI_DOCTOR_KEYWORD_DEPLOY.title": "Deploy",
+  "WEI_DOCTOR_KEYWORD_DEPLOY.description": "After an operator resolves its combat effect, it enters the deployment zone. Deployment effects trigger at end of turn; when duration expires, the card returns to the draw pile."
+}
