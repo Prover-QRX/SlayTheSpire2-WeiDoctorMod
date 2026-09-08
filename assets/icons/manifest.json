@@ -1,0 +1,649 @@
+{
+  "generatedAt": "2026-09-04T15:17:44.987Z",
+  "sourcePage": "https://prts.wiki/w/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%EF%BC%9A%E7%9B%9F%E7%BA%A6_%E4%B8%8B%E5%8D%8A/PRTS%E7%9B%9F%E7%BA%A6%E8%AE%B0%E5%BD%95",
+  "note": "页面内容仅作为素材来源解析，不作为指令。",
+  "counts": {
+    "bondIcons": 23,
+    "equipmentAndItems": 58,
+    "mechanismIcons": 1,
+    "failures": 0
+  },
+  "assets": [
+    {
+      "category": "盟约图标",
+      "name": "炎",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\盟约图标\\炎.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/c/c6/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%EF%BC%9A%E7%9B%9F%E7%BA%A6_icon_yanShip.png/80px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%EF%BC%9A%E7%9B%9F%E7%BA%A6_icon_yanShip.png?v=t1af6ve0tez042z7yuo2rqyp5nbv3om",
+      "bytes": 3489
+    },
+    {
+      "category": "盟约图标",
+      "name": "萨尔贡",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\盟约图标\\萨尔贡.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/b/ba/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%EF%BC%9A%E7%9B%9F%E7%BA%A6_icon_sargonShip.png/80px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%EF%BC%9A%E7%9B%9F%E7%BA%A6_icon_sargonShip.png?v=gkl9qx55afu75mf767oozjdzlcq7yev",
+      "bytes": 2116
+    },
+    {
+      "category": "盟约图标",
+      "name": "维多利亚",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\盟约图标\\维多利亚.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/e/e7/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%EF%BC%9A%E7%9B%9F%E7%BA%A6_icon_victoriaShip.png/80px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%EF%BC%9A%E7%9B%9F%E7%BA%A6_icon_victoriaShip.png?v=6g35s9u120do8gfyy1zvp6a6mmfnz95",
+      "bytes": 2696
+    },
+    {
+      "category": "盟约图标",
+      "name": "谢拉格",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\盟约图标\\谢拉格.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/b/b0/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%EF%BC%9A%E7%9B%9F%E7%BA%A6_icon_kjeragShip.png/80px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%EF%BC%9A%E7%9B%9F%E7%BA%A6_icon_kjeragShip.png?v=32zhx1vixzynpv8214k8rb5wmw43jfp",
+      "bytes": 3443
+    },
+    {
+      "category": "盟约图标",
+      "name": "拉特兰",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\盟约图标\\拉特兰.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/f/fb/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%EF%BC%9A%E7%9B%9F%E7%BA%A6_icon_lateranoShip.png/80px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%EF%BC%9A%E7%9B%9F%E7%BA%A6_icon_lateranoShip.png?v=l1fn820t7gg8dg66ylbbgcfulpovwvn",
+      "bytes": 3096
+    },
+    {
+      "category": "盟约图标",
+      "name": "阿戈尔",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\盟约图标\\阿戈尔.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/e/e5/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%EF%BC%9A%E7%9B%9F%E7%BA%A6_icon_egirShip.png/80px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%EF%BC%9A%E7%9B%9F%E7%BA%A6_icon_egirShip.png?v=shsfz2urd6axwr11xn9k6gsyx79u5q9",
+      "bytes": 3125
+    },
+    {
+      "category": "盟约图标",
+      "name": "叙拉古",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\盟约图标\\叙拉古.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/b/b6/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%EF%BC%9A%E7%9B%9F%E7%BA%A6_icon_siracusaShip.png/80px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%EF%BC%9A%E7%9B%9F%E7%BA%A6_icon_siracusaShip.png?v=9dvczcdlsng6co3qxe3wikqz2e9zphf",
+      "bytes": 3961
+    },
+    {
+      "category": "盟约图标",
+      "name": "卡西米尔",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\盟约图标\\卡西米尔.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/0/0d/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%EF%BC%9A%E7%9B%9F%E7%BA%A6_icon_kazimierzShip.png/80px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%EF%BC%9A%E7%9B%9F%E7%BA%A6_icon_kazimierzShip.png?v=nal1awxjztsqpmn7y7yn5xzo8kemrrz",
+      "bytes": 2757
+    },
+    {
+      "category": "盟约图标",
+      "name": "精准",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\盟约图标\\精准.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/b/bc/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%EF%BC%9A%E7%9B%9F%E7%BA%A6_icon_preciShip.png/80px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%EF%BC%9A%E7%9B%9F%E7%BA%A6_icon_preciShip.png?v=sbh4sx0uuqb1xvmlct4lc7x502hb0y8",
+      "bytes": 3098
+    },
+    {
+      "category": "盟约图标",
+      "name": "迅捷",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\盟约图标\\迅捷.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/d/da/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%EF%BC%9A%E7%9B%9F%E7%BA%A6_icon_swiftShip.png/80px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%EF%BC%9A%E7%9B%9F%E7%BA%A6_icon_swiftShip.png?v=0jnba1r6879mrxln032ka14zwn13lk3",
+      "bytes": 2656
+    },
+    {
+      "category": "盟约图标",
+      "name": "灵巧",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\盟约图标\\灵巧.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/7/7d/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%EF%BC%9A%E7%9B%9F%E7%BA%A6_icon_skillfulShip.png/80px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%EF%BC%9A%E7%9B%9F%E7%BA%A6_icon_skillfulShip.png?v=31bijemy3qzk54t1bnpcku2yhvapr9w",
+      "bytes": 2978
+    },
+    {
+      "category": "盟约图标",
+      "name": "奥术",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\盟约图标\\奥术.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/f/f5/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%EF%BC%9A%E7%9B%9F%E7%BA%A6_icon_arcaneShip.png/80px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%EF%BC%9A%E7%9B%9F%E7%BA%A6_icon_arcaneShip.png?v=aibli0xyuyvd6mqzatfwgnmyo5szmqf",
+      "bytes": 2866
+    },
+    {
+      "category": "盟约图标",
+      "name": "坚守",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\盟约图标\\坚守.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/1/17/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%EF%BC%9A%E7%9B%9F%E7%BA%A6_icon_steadShip.png/80px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%EF%BC%9A%E7%9B%9F%E7%BA%A6_icon_steadShip.png?v=5km6l619bsfmdtysaldkkb70uuk3eei",
+      "bytes": 2082
+    },
+    {
+      "category": "盟约图标",
+      "name": "助力",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\盟约图标\\助力.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/f/f9/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%EF%BC%9A%E7%9B%9F%E7%BA%A6_icon_deputShip.png/80px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%EF%BC%9A%E7%9B%9F%E7%BA%A6_icon_deputShip.png?v=e3iit72r52vit7lh6bw4ioj9q3q71s0",
+      "bytes": 2810
+    },
+    {
+      "category": "盟约图标",
+      "name": "远见",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\盟约图标\\远见.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/8/82/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%EF%BC%9A%E7%9B%9F%E7%BA%A6_icon_visiShip.png/80px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%EF%BC%9A%E7%9B%9F%E7%BA%A6_icon_visiShip.png?v=ncv1zg7xjygtcxk5fu6gnw7ommfr0o0",
+      "bytes": 2428
+    },
+    {
+      "category": "盟约图标",
+      "name": "奇迹",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\盟约图标\\奇迹.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/f/fe/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%EF%BC%9A%E7%9B%9F%E7%BA%A6_icon_miraShip.png/80px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%EF%BC%9A%E7%9B%9F%E7%BA%A6_icon_miraShip.png?v=q59ddl7g65l9kt1yqjne6xrhjrb9r32",
+      "bytes": 3229
+    },
+    {
+      "category": "盟约图标",
+      "name": "投资人",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\盟约图标\\投资人.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/e/e0/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%EF%BC%9A%E7%9B%9F%E7%BA%A6_icon_investShip.png/80px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%EF%BC%9A%E7%9B%9F%E7%BA%A6_icon_investShip.png?v=r7rl8802dut1asun8ozaqi5x2us7wwa",
+      "bytes": 2216
+    },
+    {
+      "category": "盟约图标",
+      "name": "突袭",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\盟约图标\\突袭.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/a/ae/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%EF%BC%9A%E7%9B%9F%E7%BA%A6_icon_raidShip.png/80px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%EF%BC%9A%E7%9B%9F%E7%BA%A6_icon_raidShip.png?v=etktvq25ntxsmyb78uaz1h8em2m0vq9",
+      "bytes": 2414
+    },
+    {
+      "category": "盟约图标",
+      "name": "不屈",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\盟约图标\\不屈.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/a/a1/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%EF%BC%9A%E7%9B%9F%E7%BA%A6_icon_indomShip.png/80px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%EF%BC%9A%E7%9B%9F%E7%BA%A6_icon_indomShip.png?v=pu3l67bm00fsuy1awfxjzc5we5ngfmg",
+      "bytes": 2632
+    },
+    {
+      "category": "盟约图标",
+      "name": "调和",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\盟约图标\\调和.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/c/c6/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%EF%BC%9A%E7%9B%9F%E7%BA%A6_icon_maniShip.png/80px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%EF%BC%9A%E7%9B%9F%E7%BA%A6_icon_maniShip.png?v=1rdf0zg09fktkfssof9ssp3f9aog5lg",
+      "bytes": 2357
+    },
+    {
+      "category": "盟约图标",
+      "name": "协防干员",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\盟约图标\\协防干员.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/5/5b/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%EF%BC%9A%E7%9B%9F%E7%BA%A6_icon_emptyShip.png/80px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%EF%BC%9A%E7%9B%9F%E7%BA%A6_icon_emptyShip.png?v=94hy0vf1wa5jvx6dizhwui9vp0oi1d6",
+      "bytes": 2391
+    },
+    {
+      "category": "盟约图标",
+      "name": "独行",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\盟约图标\\独行.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/e/e0/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%EF%BC%9A%E7%9B%9F%E7%BA%A6_icon_soloShip.png/80px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%EF%BC%9A%E7%9B%9F%E7%BA%A6_icon_soloShip.png?v=dg7ei52z6eplk6oe972y1am1grvnk74",
+      "bytes": 2091
+    },
+    {
+      "category": "盟约图标",
+      "name": "绝技",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\盟约图标\\绝技.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/d/dc/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%EF%BC%9A%E7%9B%9F%E7%BA%A6_icon_suntShip.png/80px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE%EF%BC%9A%E7%9B%9F%E7%BA%A6_icon_suntShip.png?v=6imgzilwm4j1q33gjvgawcjyjtvt4qq",
+      "bytes": 2696
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅰ阶",
+      "name": "维式重锤",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\01_I阶\\装备\\维式重锤.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/a/ae/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E7%BB%B4%E5%BC%8F%E9%87%8D%E9%94%A4.png/160px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E7%BB%B4%E5%BC%8F%E9%87%8D%E9%94%A4.png?v=82fxjq3m902upocrq480lvntxe89xg3",
+      "bytes": 16947
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅰ阶",
+      "name": "坚守盾牌",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\01_I阶\\装备\\坚守盾牌.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/d/d6/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E5%9D%9A%E5%AE%88%E7%9B%BE%E7%89%8C.png/160px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E5%9D%9A%E5%AE%88%E7%9B%BE%E7%89%8C.png?v=4akntkzfxr13zmv17z9ikol0hzt0pek",
+      "bytes": 34817
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅰ阶",
+      "name": "盟约之币",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\01_I阶\\装备\\盟约之币.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/c/c1/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E5%B9%B8%E8%BF%90%E7%A1%AC%E5%B8%81.png/160px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E5%B9%B8%E8%BF%90%E7%A1%AC%E5%B8%81.png?v=r5qlakceerg0fbe4wyszikeglilr98s",
+      "bytes": 52476
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅰ阶",
+      "name": "随身身份牌",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\01_I阶\\装备\\随身身份牌.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/8/85/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E9%9A%8F%E8%BA%AB%E8%BA%AB%E4%BB%BD%E7%89%8C.png/160px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E9%9A%8F%E8%BA%AB%E8%BA%AB%E4%BB%BD%E7%89%8C.png?v=r25kguu5nklrxz10mvokwzypd6m89jl",
+      "bytes": 28317
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅰ阶",
+      "name": "源石溶剂",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\01_I阶\\装备\\源石溶剂.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/1/18/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E6%BA%90%E7%9F%B3%E6%BA%B6%E5%89%82.png/160px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E6%BA%90%E7%9F%B3%E6%BA%B6%E5%89%82.png?v=hlvxocupzjinqw1bw5fitamz1qylsju",
+      "bytes": 15587
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅱ阶",
+      "name": "不屈弹射器",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\02_II阶\\装备\\不屈弹射器.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/b/ba/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E4%B8%8D%E5%B1%88%E5%BC%B9%E5%B0%84%E5%99%A8.png/160px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E4%B8%8D%E5%B1%88%E5%BC%B9%E5%B0%84%E5%99%A8.png?v=2tww3azibt90qpxnxpkk0phpwvh7o31",
+      "bytes": 31720
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅱ阶",
+      "name": "紧急调度券",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\02_II阶\\装备\\紧急调度券.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/8/89/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E7%B4%A7%E6%80%A5%E8%B0%83%E5%BA%A6%E5%88%B8.png/160px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E7%B4%A7%E6%80%A5%E8%B0%83%E5%BA%A6%E5%88%B8.png?v=fdvchjmzg3jo1agh0gvej4pt3tcy32p",
+      "bytes": 18399
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅱ阶",
+      "name": "战栗维式重锤",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\02_II阶\\装备\\战栗维式重锤.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/c/c5/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E6%88%98%E6%A0%97%E7%BB%B4%E5%BC%8F%E9%87%8D%E9%94%A4.png/160px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E6%88%98%E6%A0%97%E7%BB%B4%E5%BC%8F%E9%87%8D%E9%94%A4.png?v=qqmmzrn2vtktq9vc4eyz69q2ed11zc1",
+      "bytes": 21216
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅱ阶",
+      "name": "萨尔贡浓茶",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\02_II阶\\装备\\萨尔贡浓茶.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/1/1d/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E8%90%A8%E5%B0%94%E8%B4%A1%E6%B5%93%E8%8C%B6.png/160px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E8%90%A8%E5%B0%94%E8%B4%A1%E6%B5%93%E8%8C%B6.png?v=6zc2eeosfm21drujzzgemv21u4yiloy",
+      "bytes": 39260
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅱ阶",
+      "name": "精打细算玩偶",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\02_II阶\\装备\\精打细算玩偶.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/4/4b/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E7%B2%BE%E6%89%93%E7%BB%86%E7%AE%97%E7%8E%A9%E5%81%B6.png/160px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E7%B2%BE%E6%89%93%E7%BB%86%E7%AE%97%E7%8E%A9%E5%81%B6.png?v=ctm5mn8k3tdxncc8vr9lnjxakah2scl",
+      "bytes": 22488
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅱ阶",
+      "name": "简易通讯机",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\02_II阶\\装备\\简易通讯机.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/1/14/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E7%AE%80%E6%98%93%E9%80%9A%E8%AE%AF%E6%9C%BA.png/160px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E7%AE%80%E6%98%93%E9%80%9A%E8%AE%AF%E6%9C%BA.png?v=8q83q4fi85a08fkh9nanff2zh690s57",
+      "bytes": 19773
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅱ阶",
+      "name": "见钱眼开玩偶",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\02_II阶\\装备\\见钱眼开玩偶.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/b/ba/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E8%A7%81%E9%92%B1%E7%9C%BC%E5%BC%80%E7%8E%A9%E5%81%B6.png/160px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E8%A7%81%E9%92%B1%E7%9C%BC%E5%BC%80%E7%8E%A9%E5%81%B6.png?v=kj4os6xviqj3dutptvef64v36dlitsh",
+      "bytes": 21443
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅲ阶",
+      "name": "叙拉古正装",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\03_III阶\\装备\\叙拉古正装.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/1/16/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E5%8F%99%E6%8B%89%E5%8F%A4%E6%AD%A3%E8%A3%85.png/160px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E5%8F%99%E6%8B%89%E5%8F%A4%E6%AD%A3%E8%A3%85.png?v=dwe6af1mv4lsn8oo7zci1go91z26npi",
+      "bytes": 36270
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅲ阶",
+      "name": "精准狙击镜",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\03_III阶\\装备\\精准狙击镜.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/0/08/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E7%B2%BE%E5%87%86%E7%8B%99%E5%87%BB%E9%95%9C.png/160px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E7%B2%BE%E5%87%86%E7%8B%99%E5%87%BB%E9%95%9C.png?v=764reqk3iwujabekgs9cah412dqhc8y",
+      "bytes": 28711
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅲ阶",
+      "name": "激光发射器",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\03_III阶\\装备\\激光发射器.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/4/47/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E6%BF%80%E5%85%89%E5%8F%91%E5%B0%84%E5%99%A8.png/160px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E6%BF%80%E5%85%89%E5%8F%91%E5%B0%84%E5%99%A8.png?v=5wy6fq871gbun3rrj71cone9yr6nr5m",
+      "bytes": 24607
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅲ阶",
+      "name": "炎国短刀",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\03_III阶\\装备\\炎国短刀.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/4/43/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E7%82%8E%E5%9B%BD%E7%9F%AD%E5%88%80.png/160px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E7%82%8E%E5%9B%BD%E7%9F%AD%E5%88%80.png?v=tl4ug7465ebm6ng59mo01oyugi7b22g",
+      "bytes": 16938
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅲ阶",
+      "name": "迅捷作战粮",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\03_III阶\\装备\\迅捷作战粮.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/4/41/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E8%BF%85%E6%8D%B7%E4%BD%9C%E6%88%98%E7%B2%AE.png/160px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E8%BF%85%E6%8D%B7%E4%BD%9C%E6%88%98%E7%B2%AE.png?v=n085zlgh3rte86xm9i8xhkfbu2semcf",
+      "bytes": 33978
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅲ阶",
+      "name": "歌利亚头盔",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\03_III阶\\装备\\歌利亚头盔.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/d/d0/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E6%AD%8C%E5%88%A9%E4%BA%9A%E5%A4%B4%E7%9B%94.png/160px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E6%AD%8C%E5%88%A9%E4%BA%9A%E5%A4%B4%E7%9B%94.png?v=nixnrc78hn4bsxwvid3df9hj5ep3zno",
+      "bytes": 33349
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅲ阶",
+      "name": "阿戈尔重刃",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\03_III阶\\装备\\阿戈尔重刃.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/6/63/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E9%98%BF%E6%88%88%E5%B0%94%E9%87%8D%E5%88%83.png/160px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E9%98%BF%E6%88%88%E5%B0%94%E9%87%8D%E5%88%83.png?v=teyootdw6eh6dzc730k1eotivij8dc6",
+      "bytes": 34859
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅲ阶",
+      "name": "奥术法阵",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\03_III阶\\装备\\奥术法阵.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/c/c2/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E5%8F%A3%E8%A2%8B%E6%B3%95%E9%98%B5.png/127px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E5%8F%A3%E8%A2%8B%E6%B3%95%E9%98%B5.png?v=33156jwnvl67sbu1q8n74wtdlm9kupj",
+      "bytes": 45150
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅲ阶",
+      "name": "坚固维式重锤",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\03_III阶\\装备\\坚固维式重锤.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/e/e5/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E5%9D%9A%E5%9B%BA%E7%BB%B4%E5%BC%8F%E9%87%8D%E9%94%A4.png/160px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E5%9D%9A%E5%9B%BA%E7%BB%B4%E5%BC%8F%E9%87%8D%E9%94%A4.png?v=l0zah0nowz31bqxpwrz3p6i416jo6st",
+      "bytes": 19427
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅲ阶",
+      "name": "加速维式重锤",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\03_III阶\\装备\\加速维式重锤.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/9/95/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E5%8A%A0%E9%80%9F%E7%BB%B4%E5%BC%8F%E9%87%8D%E9%94%A4.png/160px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E5%8A%A0%E9%80%9F%E7%BB%B4%E5%BC%8F%E9%87%8D%E9%94%A4.png?v=ompszwl984bagaccsaltrsw6hblige0",
+      "bytes": 26758
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅲ阶",
+      "name": "突袭手雷",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\03_III阶\\装备\\突袭手雷.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/5/50/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E7%AA%81%E8%A2%AD%E6%89%8B%E9%9B%B7.png/160px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E7%AA%81%E8%A2%AD%E6%89%8B%E9%9B%B7.png?v=i59uq0owyr2u64bit7x32flgokc4d4a",
+      "bytes": 17995
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅲ阶",
+      "name": "骑士储蓄罐",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\03_III阶\\装备\\骑士储蓄罐.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/2/21/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E7%AB%9E%E6%8A%80%E6%8A%95%E5%B8%81%E6%9C%BA.png/160px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E7%AB%9E%E6%8A%80%E6%8A%95%E5%B8%81%E6%9C%BA.png?v=twap57l6g10ucux0xvq9ri79pvj1683",
+      "bytes": 27255
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅳ阶",
+      "name": "寻呼模块",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\04_IV阶\\装备\\寻呼模块.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/8/81/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E5%AF%BB%E5%91%BC%E6%A8%A1%E5%9D%97.png/160px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E5%AF%BB%E5%91%BC%E6%A8%A1%E5%9D%97.png?v=hzytl3ozl877at5wduxqq9e1b5skahi",
+      "bytes": 23284
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅳ阶",
+      "name": "蜂鸣器",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\04_IV阶\\装备\\蜂鸣器.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/2/29/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E8%9C%82%E9%B8%A3%E5%99%A8.png/160px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E8%9C%82%E9%B8%A3%E5%99%A8.png?v=a94m0237x2ktrcmj4kcqc7iabxywmq9",
+      "bytes": 36184
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅳ阶",
+      "name": "有限加速器",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\04_IV阶\\装备\\有限加速器.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/1/1d/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E6%9C%89%E9%99%90%E5%8A%A0%E9%80%9F%E5%99%A8.png/160px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E6%9C%89%E9%99%90%E5%8A%A0%E9%80%9F%E5%99%A8.png?v=qxclq2e5s3hqokp4m67fzjz5roa9fjf",
+      "bytes": 33210
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅳ阶",
+      "name": "伪装服",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\04_IV阶\\装备\\伪装服.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/5/50/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E4%BC%AA%E8%A3%85%E6%9C%8D.png/160px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E4%BC%AA%E8%A3%85%E6%9C%8D.png?v=ka4m8wncc2enuwc10bas8msfmnfcqv4",
+      "bytes": 27566
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅳ阶",
+      "name": "防暴盾",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\04_IV阶\\装备\\防暴盾.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/f/ff/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E9%98%B2%E6%9A%B4%E7%9B%BE.png/160px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E9%98%B2%E6%9A%B4%E7%9B%BE.png?v=0iws5d1obisl83blkfnl0bv0zs97ig1",
+      "bytes": 31411
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅳ阶",
+      "name": "休眠子裔",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\04_IV阶\\装备\\休眠子裔.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/d/d0/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E4%BC%91%E7%9C%A0%E5%AD%90%E8%A3%94.png/160px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E4%BC%91%E7%9C%A0%E5%AD%90%E8%A3%94.png?v=3zuqd232qjkojetozn7di2qr8ql0c9o",
+      "bytes": 44810
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅳ阶",
+      "name": "卡西米尔竞技旗",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\04_IV阶\\装备\\卡西米尔竞技旗.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/7/7d/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E5%8D%A1%E8%A5%BF%E7%B1%B3%E5%B0%94%E7%AB%9E%E6%8A%80%E6%97%97.png/160px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E5%8D%A1%E8%A5%BF%E7%B1%B3%E5%B0%94%E7%AB%9E%E6%8A%80%E6%97%97.png?v=1bax8x24j8h63fu3fkrqe2vpbp26mt1",
+      "bytes": 25294
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅳ阶",
+      "name": "拉特兰桥夹",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\04_IV阶\\装备\\拉特兰桥夹.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/1/11/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E6%8B%89%E7%89%B9%E5%85%B0%E6%A1%A5%E5%A4%B9.png/160px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E6%8B%89%E7%89%B9%E5%85%B0%E6%A1%A5%E5%A4%B9.png?v=sydpf77q2ayt8izlsxcjkzp50rybklz",
+      "bytes": 32007
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅳ阶",
+      "name": "灼燃维式重锤",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\04_IV阶\\装备\\灼燃维式重锤.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/7/77/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E7%81%BC%E7%87%83%E7%BB%B4%E5%BC%8F%E9%87%8D%E9%94%A4.png/160px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E7%81%BC%E7%87%83%E7%BB%B4%E5%BC%8F%E9%87%8D%E9%94%A4.png?v=5yhmaqgmlnm5cd0ll3id6jseo7rkjy5",
+      "bytes": 32971
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅳ阶",
+      "name": "浓缩嗅盐",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\04_IV阶\\装备\\浓缩嗅盐.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/7/78/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E6%B5%93%E7%BC%A9%E5%97%85%E7%9B%90.png/160px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E6%B5%93%E7%BC%A9%E5%97%85%E7%9B%90.png?v=aoo5jmoo0nq99mnbhju4qq6fy7122zi",
+      "bytes": 35291
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅳ阶",
+      "name": "护盾无人机",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\04_IV阶\\装备\\护盾无人机.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/c/ce/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E6%8A%A4%E7%9B%BE%E6%97%A0%E4%BA%BA%E6%9C%BA.png/160px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E6%8A%A4%E7%9B%BE%E6%97%A0%E4%BA%BA%E6%9C%BA.png?v=gngcsu2233p36jvx624ceopumb661de",
+      "bytes": 32096
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅳ阶",
+      "name": "M3茧甲",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\04_IV阶\\装备\\M3茧甲.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/a/ac/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_M3%E8%8C%A7%E7%94%B2.png/160px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_M3%E8%8C%A7%E7%94%B2.png?v=7qvgj32nnojwy8tnapz9z8hlmgo3aqk",
+      "bytes": 34361
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅴ阶",
+      "name": "催泪瓦斯",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\05_V阶\\装备\\催泪瓦斯.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/a/a8/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E5%82%AC%E6%B3%AA%E7%93%A6%E6%96%AF.png/160px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E5%82%AC%E6%B3%AA%E7%93%A6%E6%96%AF.png?v=9a474t7d5dma08wp5zfmqykjnmjvkyi",
+      "bytes": 37341
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅴ阶",
+      "name": "谢拉格不融冰",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\05_V阶\\装备\\谢拉格不融冰.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/5/5d/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E8%B0%A2%E6%8B%89%E6%A0%BC%E4%B8%8D%E8%9E%8D%E5%86%B0.png/160px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E8%B0%A2%E6%8B%89%E6%A0%BC%E4%B8%8D%E8%9E%8D%E5%86%B0.png?v=72fc65fzi6hlqyltn1ymuysdlahux0f",
+      "bytes": 29444
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅴ阶",
+      "name": "双模机械臂",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\05_V阶\\装备\\双模机械臂.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/d/d9/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E5%8F%8C%E6%A8%A1%E6%9C%BA%E6%A2%B0%E8%87%82.png/160px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E5%8F%8C%E6%A8%A1%E6%9C%BA%E6%A2%B0%E8%87%82.png?v=rpffx9cdvcn33d3kafj3lkcumvizeeh",
+      "bytes": 20713
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅴ阶",
+      "name": "信标",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\05_V阶\\装备\\信标.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/b/b9/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E4%BF%A1%E6%A0%87.png/160px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E4%BF%A1%E6%A0%87.png?v=tfvzkbr25y3h8bsrnvegkeo9l4y8ern",
+      "bytes": 23543
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅴ阶",
+      "name": "拟态物质",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\05_V阶\\装备\\拟态物质.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/0/0a/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E6%8B%9F%E6%80%81%E7%89%A9%E8%B4%A8.png/160px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E6%8B%9F%E6%80%81%E7%89%A9%E8%B4%A8.png?v=6k7h8vyokgc1yp633ob1irzgky479ch",
+      "bytes": 45788
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅴ阶",
+      "name": "博士投影",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\05_V阶\\装备\\博士投影.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/7/70/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E5%8D%9A%E5%A3%AB%E6%8A%95%E5%BD%B1.png/160px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E5%8D%9A%E5%A3%AB%E6%8A%95%E5%BD%B1.png?v=e4rr9o4ghfh2wh50g8mt9cas3dqvnr4",
+      "bytes": 38832
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅴ阶",
+      "name": "商业包装方案",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\05_V阶\\装备\\商业包装方案.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/a/a7/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E5%95%86%E4%B8%9A%E5%8C%85%E8%A3%85%E6%96%B9%E6%A1%88.png/160px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E5%95%86%E4%B8%9A%E5%8C%85%E8%A3%85%E6%96%B9%E6%A1%88.png?v=4afjcfa55s6ekb3xlyl2wa7a42xpaxn",
+      "bytes": 24640
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅴ阶",
+      "name": "突变细胞",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\05_V阶\\装备\\突变细胞.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/a/a3/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E7%AA%81%E5%8F%98%E7%BB%86%E8%83%9E.png/160px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E7%AA%81%E5%8F%98%E7%BB%86%E8%83%9E.png?v=7n0gfdi8mfgcdhxuzcnfw4w4ly6mpth",
+      "bytes": 23757
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅴ阶",
+      "name": "天马之盔",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\05_V阶\\装备\\天马之盔.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/9/9c/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E5%A4%A9%E9%A9%AC%E4%B9%8B%E7%9B%94.png/160px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E5%A4%A9%E9%A9%AC%E4%B9%8B%E7%9B%94.png?v=sk3nyx1f95e0bmvuq339wtrpbdhf1iv",
+      "bytes": 29207
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅵ阶",
+      "name": "天马之枪",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\06_VI阶\\装备\\天马之枪.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/a/ad/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E5%A4%A9%E9%A9%AC%E4%B9%8B%E6%9E%AA.png/160px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E5%A4%A9%E9%A9%AC%E4%B9%8B%E6%9E%AA.png?v=p0zzlfmmikts8esd2vd8ymx5gw6msro",
+      "bytes": 16153
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅵ阶",
+      "name": "铳骑之威",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\06_VI阶\\装备\\铳骑之威.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/f/f8/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E9%93%B3%E9%AA%91%E4%B9%8B%E5%A8%81.png/160px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E9%93%B3%E9%AA%91%E4%B9%8B%E5%A8%81.png?v=gtdj2c8s1qu58tszhd0msgkgxu2xj0k",
+      "bytes": 27880
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅵ阶",
+      "name": "天师古鼎",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\06_VI阶\\装备\\天师古鼎.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/5/5f/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E5%A4%A9%E5%B8%88%E5%8F%A4%E9%BC%8E.png/160px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E5%A4%A9%E5%B8%88%E5%8F%A4%E9%BC%8E.png?v=4opcdep8ft5s737bnir7bisc646spto",
+      "bytes": 29631
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅵ阶",
+      "name": "海沟实验体",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\06_VI阶\\装备\\海沟实验体.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/2/21/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E6%B5%B7%E6%B2%9F%E5%AE%9E%E9%AA%8C%E4%BD%93.png/160px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E6%B5%B7%E6%B2%9F%E5%AE%9E%E9%AA%8C%E4%BD%93.png?v=j4pmk93qdikc1lfazyhdy2kuvvuuon7",
+      "bytes": 29728
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅵ阶",
+      "name": "蒸汽之心",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\06_VI阶\\装备\\蒸汽之心.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/a/a5/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E8%92%B8%E6%B1%BD%E4%B9%8B%E5%BF%83.png/160px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E8%92%B8%E6%B1%BD%E4%B9%8B%E5%BF%83.png?v=logjebgmvftsn9wo2tamaz44s9ayl3s",
+      "bytes": 42280
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅵ阶",
+      "name": "耶拉冈德之泪",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\06_VI阶\\装备\\耶拉冈德之泪.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/f/f0/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E8%80%B6%E6%8B%89%E5%86%88%E5%BE%B7%E4%B9%8B%E6%B3%AA.png/160px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E8%80%B6%E6%8B%89%E5%86%88%E5%BE%B7%E4%B9%8B%E6%B3%AA.png?v=f9oaz7c2xigrqsy9lji2r8uhm94u5pj",
+      "bytes": 33425
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅵ阶",
+      "name": "黄沙罗盘",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\06_VI阶\\装备\\黄沙罗盘.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/e/e3/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E9%BB%84%E6%B2%99%E7%BD%97%E7%9B%98.png/160px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E9%BB%84%E6%B2%99%E7%BD%97%E7%9B%98.png?v=9zn7qdaa3zx2p5d31yv2gy1nyhc1tzb",
+      "bytes": 51630
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅵ阶",
+      "name": "人事部文档",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\06_VI阶\\装备\\人事部文档.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/9/9b/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E4%BA%BA%E4%BA%8B%E9%83%A8%E6%96%87%E6%A1%A3.png/160px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E4%BA%BA%E4%BA%8B%E9%83%A8%E6%96%87%E6%A1%A3.png?v=9xl7eqy387fkp5piz9l1xg432b9h15s",
+      "bytes": 31824
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅵ阶",
+      "name": "变形同构体",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\06_VI阶\\装备\\变形同构体.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/7/77/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E5%8F%98%E5%BD%A2%E5%90%8C%E6%9E%84%E4%BD%93.png/160px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E5%8F%98%E5%BD%A2%E5%90%8C%E6%9E%84%E4%BD%93.png?v=p7zi1heilkjh81xvs6bmo79ogbrsow2",
+      "bytes": 33495
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅵ阶",
+      "name": "骑士戒律",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\06_VI阶\\装备\\骑士戒律.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/4/48/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E9%AA%91%E5%A3%AB%E6%88%92%E5%BE%8B.png/160px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E9%AA%91%E5%A3%AB%E6%88%92%E5%BE%8B.png?v=466si7ffxrwqicd5t0f8tromi57sk3p",
+      "bytes": 20878
+    },
+    {
+      "category": "装备",
+      "tier": "Ⅵ阶",
+      "name": "家族徽章",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\装备图标\\06_VI阶\\装备\\家族徽章.png",
+      "sourceUrl": "https://media.prts.wiki/thumb/e/e1/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E5%AE%B6%E6%97%8F%E5%BE%BD%E7%AB%A0.png/160px-%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E5%AE%B6%E6%97%8F%E5%BE%BD%E7%AB%A0.png?v=7jztf16lqrrsbwb3a7wfurg0yl7lwt4",
+      "bytes": 26670
+    },
+    {
+      "category": "法术",
+      "tier": "Ⅵ阶",
+      "name": "画卷",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\法术图标\\06_VI阶\\画卷.png",
+      "sourceUrl": "https://media.prts.wiki/5/5f/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E7%94%BB%E5%8D%B7.png?v=2c6hqs9mz6aydyeco3ou0ch0lcfe1e2",
+      "bytes": 7057
+    },
+    {
+      "category": "法术",
+      "tier": "Ⅵ阶",
+      "name": "教鞭",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\法术图标\\06_VI阶\\教鞭.png",
+      "sourceUrl": "https://media.prts.wiki/6/6d/%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE_%E9%81%93%E5%85%B7_%E6%95%99%E9%9E%AD.png?v=1nmagrelb2n2k8tv3jlurgp2mbnql2n",
+      "bytes": 8850
+    },
+    {
+      "category": "机制图标",
+      "name": "炎佑",
+      "note": "按用户要求，使用干员令的召唤物图标代替。",
+      "file": "D:\\大黄算法？？？\\卫戍协议图片素材包\\机制图标\\炎佑_令召唤物替代.png",
+      "sourceUrl": "https://media.prts.wiki/2/2c/%E5%A4%B4%E5%83%8F_%E4%BB%A4.png?v=6gpxk9czbase58ojhhpjngjskpfaa14",
+      "sourcePage": "“弦惊”",
+      "matchedAnchor": "弦惊",
+      "bytes": 46391
+    }
+  ],
+  "failures": []
+}
